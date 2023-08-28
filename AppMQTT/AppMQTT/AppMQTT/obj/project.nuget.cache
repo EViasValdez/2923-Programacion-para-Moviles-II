@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xaNFVwnp1sUrKgEgA+54rESZrQnWmx3IILgshgfDSY4NXp4mjqG2uzTpTz2SDIfmUov8k0IQp24xx5nlBjs6nQ==",
+  "success": true,
+  "projectFilePath": "F:\\VS\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\opennetcf-extensions-standard\\1.0.17160\\opennetcf-extensions-standard.1.0.17160.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\opennetcf.mqtt\\1.0.17253\\opennetcf.mqtt.1.0.17253.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
