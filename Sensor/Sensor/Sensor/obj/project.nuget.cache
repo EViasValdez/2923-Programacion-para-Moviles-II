@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DFnOOS1vyGnWfNEGGU6Ka++dAXWQcamZ6Zb2mIkKM7Rj/CMryn1nap1ru/X8Or3UagNMVva6zML4llvepbOLQ==",
+  "success": true,
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\Sensor\\Sensor\\Sensor\\Sensor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\xamarin.essentials\\1.7.7\\xamarin.essentials.1.7.7.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}
