@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcLUMfwjKX4dhOQYfWoY+Mc0laC83kGIRSM72Kdu/qLyQs3YRmY+NQwnpicbkLSx3qN7sUd/WDla/fiUz/ZIfQ==",
+  "success": true,
+  "projectFilePath": "E:\\VS\\Programacion para moviles II\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\xamarin.essentials\\1.7.7\\xamarin.essentials.1.7.7.nupkg.sha512",
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

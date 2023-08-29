@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.1\ProyectoXamarin.deps.json
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.1\ProyectoXamarin.dll
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.1\ref\ProyectoXamarin.dll
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.1\ProyectoXamarin.pdb
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\ProyectoXamarin.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\ProyectoXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\ProyectoXamarin.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\ProyectoXamarin.AssemblyInfo.cs
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\ProyectoXamarin.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\ProyectoXamarin.dll
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\refint\ProyectoXamarin.dll
+C:\Users\defaultuser0\source\repos\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.1\ProyectoXamarin.pdb

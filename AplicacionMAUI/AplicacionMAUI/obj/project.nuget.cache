@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P6+B9sAGqmmRCo5EXt9fWIJjRBtaDea+QcVXmtds9OILul1e7xu+SQ/10e7gWRLo009HT8ypMXf8gMQGbPfmrw==",
+  "dgSpecHash": "dmrgy3tJXklxp6wTGDE7qfASAL9XXKUQpW6qyVXG2kNidjvRgtxFUFyXxzkD+iMgjFDM9r9QMpo/go962i5ajg==",
   "success": true,
-  "projectFilePath": "F:\\VS\\AplicacionMAUI\\AplicacionMAUI\\AplicacionMAUI.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AplicacionMAUI\\AplicacionMAUI\\AplicacionMAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defaultuser0\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
     "C:\\Users\\defaultuser0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

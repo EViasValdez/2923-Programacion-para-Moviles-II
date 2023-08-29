@@ -1900,11 +1900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VS\\AplicacionMAUI\\AplicacionMAUI\\AplicacionMAUI.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AplicacionMAUI\\AplicacionMAUI\\AplicacionMAUI.csproj",
       "projectName": "AplicacionMAUI",
-      "projectPath": "F:\\VS\\AplicacionMAUI\\AplicacionMAUI\\AplicacionMAUI.csproj",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AplicacionMAUI\\AplicacionMAUI\\AplicacionMAUI.csproj",
       "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-      "outputPath": "F:\\VS\\AplicacionMAUI\\AplicacionMAUI\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AplicacionMAUI\\AplicacionMAUI\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
