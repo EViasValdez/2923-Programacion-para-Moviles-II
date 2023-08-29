@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS\\Programacion para moviles II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.Android\\MVVMPrograma.Android.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.Android\\MVVMPrograma.Android.csproj",
       "projectName": "MVVMPrograma.Android",
-      "projectPath": "E:\\VS\\Programacion para moviles II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.Android\\MVVMPrograma.Android.csproj",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.Android\\MVVMPrograma.Android.csproj",
       "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-      "outputPath": "E:\\VS\\Programacion para moviles II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.Android\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "E:\\VS\\Programacion para moviles II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.csproj": {
-              "projectPath": "E:\\VS\\Programacion para moviles II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.csproj"
+            "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.csproj": {
+              "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.csproj"
             }
           }
         }

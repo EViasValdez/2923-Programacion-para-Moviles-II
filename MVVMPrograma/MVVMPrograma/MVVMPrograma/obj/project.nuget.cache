@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QgLWgnjnIwqgSgm1JvT5eav1V5Th0n7NnFZ6yh+hTmbZOQN4FBRkghLUJgrr7p4k8AG8jgr/NMABbH9dOvPWkw==",
+  "dgSpecHash": "/Lzx3Tz9hCiSSuD7XUV4+Nu44YRKhmnna9KjGkUZMUYx5WS1WRteTdlukRJOJrZDoDS+B0iwzpb2w0wM/lS2xQ==",
   "success": true,
-  "projectFilePath": "E:\\VS\\Programacion para moviles II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma\\MVVMPrograma.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defaultuser0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\defaultuser0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
