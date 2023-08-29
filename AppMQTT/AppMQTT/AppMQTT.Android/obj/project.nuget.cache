@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tIBkOHC0+ok/3iwWM8ytwMsW2WbEECe3WWSuatQPANlA4XxF31OV30h+Grk2wcq2XDk8muzRY4OdbdG7sYXc1Q==",
+  "dgSpecHash": "+1pScawvHMhuoWNIpoFbIa0imnbe0KroLNfg4jQSZ8beZEIkt4scp4Wy937lPHRGrtThPl4EgT50c9b/HpUISA==",
   "success": true,
-  "projectFilePath": "F:\\VS\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defaultuser0\\.nuget\\packages\\opennetcf-extensions-standard\\1.0.17160\\opennetcf-extensions-standard.1.0.17160.nupkg.sha512",
     "C:\\Users\\defaultuser0\\.nuget\\packages\\opennetcf.mqtt\\1.0.17253\\opennetcf.mqtt.1.0.17253.nupkg.sha512",

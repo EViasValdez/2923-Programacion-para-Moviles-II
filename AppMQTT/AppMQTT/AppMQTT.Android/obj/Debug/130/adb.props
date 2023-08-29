@@ -1,2 +1,2 @@
-AdbTarget=-s R58TA31ZENL
+AdbTarget=-s emulator-5554
 AdbOptions=
