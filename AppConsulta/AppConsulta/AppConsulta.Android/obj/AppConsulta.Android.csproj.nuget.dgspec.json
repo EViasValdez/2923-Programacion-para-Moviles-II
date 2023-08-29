@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta.Android\\AppConsulta.Android.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta.Android\\AppConsulta.Android.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta.Android\\AppConsulta.Android.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta.Android\\AppConsulta.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta.Android\\AppConsulta.Android.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta.Android\\AppConsulta.Android.csproj",
         "projectName": "AppConsulta.Android",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta.Android\\AppConsulta.Android.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta.Android\\AppConsulta.Android.csproj",
         "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta.Android\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj": {
-                "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj"
+              "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj": {
+                "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj",
         "projectName": "AppConsulta",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj",
         "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\AppConsulta\\AppConsulta\\AppConsulta\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
