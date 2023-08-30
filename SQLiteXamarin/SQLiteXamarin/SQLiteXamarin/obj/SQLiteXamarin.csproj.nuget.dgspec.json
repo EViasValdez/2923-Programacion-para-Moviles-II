@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\VS\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj": {}
   },
   "projects": {
-    "F:\\VS\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\VS\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj",
         "projectName": "SQLiteXamarin",
-        "projectPath": "F:\\VS\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj",
         "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-        "outputPath": "F:\\VS\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

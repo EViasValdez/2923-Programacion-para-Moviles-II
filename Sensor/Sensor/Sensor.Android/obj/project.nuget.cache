@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L5jfIVabCwlLhjrmmeVxeA4jMW3WQw139fqqMyWEbhch/VLDhxWnZCoVteoakDdh5vmLsCrIW0BAl1kd0FS/Yw==",
+  "dgSpecHash": "uOW8tDZzJGv3YWDGTk8Zcs7RfrayUjBdzv1ltqU5u6VCpVnPD7tgl7juqNEXZZJfFnc4RbS/WwA+qotrxT2s5A==",
   "success": true,
-  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\Sensor\\Sensor\\Sensor.Android\\Sensor.Android.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\Sensor\\Sensor\\Sensor.Android\\Sensor.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defaultuser0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\defaultuser0\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\Sensor\\Sensor\\Sensor\\Sensor.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\Sensor\\Sensor\\Sensor\\Sensor.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\Sensor\\Sensor\\Sensor\\Sensor.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\Sensor\\Sensor\\Sensor\\Sensor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\Sensor\\Sensor\\Sensor\\Sensor.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\Sensor\\Sensor\\Sensor\\Sensor.csproj",
         "projectName": "Sensor",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\Sensor\\Sensor\\Sensor\\Sensor.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\Sensor\\Sensor\\Sensor\\Sensor.csproj",
         "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\Sensor\\Sensor\\Sensor\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\Sensor\\Sensor\\Sensor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

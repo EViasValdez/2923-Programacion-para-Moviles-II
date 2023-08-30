@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/DFnOOS1vyGnWfNEGGU6Ka++dAXWQcamZ6Zb2mIkKM7Rj/CMryn1nap1ru/X8Or3UagNMVva6zML4llvepbOLQ==",
+  "dgSpecHash": "Fql9/ggZmmN3e0/LZypnOtzRCqKt0J++GYyWW2ilXzuN07jmrAZGcxvn9/burJqOmPqaSurcf8KJi6w47ITJfA==",
   "success": true,
-  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\2923Programacionparamoviles\\Sensor\\Sensor\\Sensor\\Sensor.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\Sensor\\Sensor\\Sensor\\Sensor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defaultuser0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\defaultuser0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
