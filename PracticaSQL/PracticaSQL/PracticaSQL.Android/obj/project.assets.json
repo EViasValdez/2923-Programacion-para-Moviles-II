@@ -4566,11 +4566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VS\\PracticaSQL\\PracticaSQL\\PracticaSQL.Android\\PracticaSQL.Android.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\PracticaSQL\\PracticaSQL\\PracticaSQL.Android\\PracticaSQL.Android.csproj",
       "projectName": "PracticaSQL.Android",
-      "projectPath": "F:\\VS\\PracticaSQL\\PracticaSQL\\PracticaSQL.Android\\PracticaSQL.Android.csproj",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\PracticaSQL\\PracticaSQL\\PracticaSQL.Android\\PracticaSQL.Android.csproj",
       "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-      "outputPath": "F:\\VS\\PracticaSQL\\PracticaSQL\\PracticaSQL.Android\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\PracticaSQL\\PracticaSQL\\PracticaSQL.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4591,8 +4591,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "F:\\VS\\PracticaSQL\\PracticaSQL\\PracticaSQL\\PracticaSQL.csproj": {
-              "projectPath": "F:\\VS\\PracticaSQL\\PracticaSQL\\PracticaSQL\\PracticaSQL.csproj"
+            "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\PracticaSQL\\PracticaSQL\\PracticaSQL\\PracticaSQL.csproj": {
+              "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\PracticaSQL\\PracticaSQL\\PracticaSQL\\PracticaSQL.csproj"
             }
           }
         }
@@ -4604,14 +4604,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.7.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

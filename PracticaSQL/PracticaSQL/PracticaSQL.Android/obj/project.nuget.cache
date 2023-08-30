@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQJjiM//3NBR8T51NzfRqewG82TURHaDZhxzi3FjSqEAE0SATxHlQaTYuvUgGzcUt/9arWT4exlSRANAvuKqcQ==",
+  "dgSpecHash": "Sk/gqcumHEG4/ocP9CZ1GeAzTU2bS/5lQ/gIzdHppV4pg4mQ25q7Z3DckVjyufbKWrQ81zApLdm1c6bSSRvbgw==",
   "success": true,
-  "projectFilePath": "F:\\VS\\PracticaSQL\\PracticaSQL\\PracticaSQL.Android\\PracticaSQL.Android.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\PracticaSQL\\PracticaSQL\\PracticaSQL.Android\\PracticaSQL.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defaultuser0\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\defaultuser0\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.17\\microsoft.data.sqlite.core.5.0.17.nupkg.sha512",

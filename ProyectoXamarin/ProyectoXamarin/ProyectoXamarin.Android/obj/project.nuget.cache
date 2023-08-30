@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b9kXv/cmW5lSQ6pqSnrP8sIzdn5JBidjMC0zF0K5xvmTHzEItTBtkvQ+fJdX5PnqmWJiMlbEwU5LEfsH7ITIBA==",
+  "dgSpecHash": "5koCJTYBfs+wtgXHwP2BJ9aJ/r+OrBnEx6rBgCprGOCTffYPsgU+Zk4/079gxkANa8Hbf99DIlw8o5eMpecSzg==",
   "success": true,
-  "projectFilePath": "E:\\VS\\Programacion para moviles II\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.Android\\ProyectoXamarin.Android.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.Android\\ProyectoXamarin.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defaultuser0\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\defaultuser0\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
