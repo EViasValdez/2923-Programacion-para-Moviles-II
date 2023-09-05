@@ -14,7 +14,7 @@ Texto por ser escrito
 <!----Separador---->
 
 ###### AplicacionMAUI - 15/05/23
-Texto por ser escrito
+La primera aplicacion que se realizo, usando el formato Xamarin MAUI.
 
 <!----Separador---->
 
