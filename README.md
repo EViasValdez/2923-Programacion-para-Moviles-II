@@ -3,7 +3,7 @@
 <!----Notas----> 
 **Notas**
 
-**- Por ser escritas.**
+**- La mayoria de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en ser puestos en este sitio) ademas de que el peso puede pasar de los 500 a 600 megas.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
