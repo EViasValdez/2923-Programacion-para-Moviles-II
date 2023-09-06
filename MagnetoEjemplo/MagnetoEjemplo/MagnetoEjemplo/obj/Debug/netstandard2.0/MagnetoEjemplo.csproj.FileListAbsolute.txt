@@ -1,0 +1,14 @@
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\bin\Debug\netstandard2.0\MagnetoEjemplo.deps.json
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\bin\Debug\netstandard2.0\MagnetoEjemplo.dll
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\bin\Debug\netstandard2.0\ref\MagnetoEjemplo.dll
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\bin\Debug\netstandard2.0\MagnetoEjemplo.pdb
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.csproj.AssemblyReference.cache
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.AssemblyInfoInputs.cache
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.AssemblyInfo.cs
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.dll
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\ref\MagnetoEjemplo.dll
+C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.pdb

@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Señor 51\\Documents\\IrvinGreg51\\UPTEC\\2923IS\\Programación Para Móviles II\\MagnetoEjemplo\\MagnetoEjemplo\\MagnetoEjemplo.Android\\MagnetoEjemplo.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Señor 51\\Documents\\IrvinGreg51\\UPTEC\\2923IS\\Programación Para Móviles II\\MagnetoEjemplo\\MagnetoEjemplo\\MagnetoEjemplo.Android\\MagnetoEjemplo.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Señor 51\\Documents\\IrvinGreg51\\UPTEC\\2923IS\\Programación Para Móviles II\\MagnetoEjemplo\\MagnetoEjemplo\\MagnetoEjemplo.Android\\MagnetoEjemplo.Android.csproj",
+        "projectName": "MagnetoEjemplo.Android",
+        "projectPath": "C:\\Users\\Señor 51\\Documents\\IrvinGreg51\\UPTEC\\2923IS\\Programación Para Móviles II\\MagnetoEjemplo\\MagnetoEjemplo\\MagnetoEjemplo.Android\\MagnetoEjemplo.Android.csproj",
+        "packagesPath": "C:\\Users\\Señor 51\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Señor 51\\Documents\\IrvinGreg51\\UPTEC\\2923IS\\Programación Para Móviles II\\MagnetoEjemplo\\MagnetoEjemplo\\MagnetoEjemplo.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Señor 51\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
