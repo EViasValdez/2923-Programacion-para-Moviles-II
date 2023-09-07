@@ -3991,24 +3991,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eriks\\.nuget\\packages\\": {},
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriks\\source\\repos\\QR\\QR.Android\\QR.Android.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR.Android\\QR.Android.csproj",
       "projectName": "QR.Android",
-      "projectPath": "C:\\Users\\eriks\\source\\repos\\QR\\QR.Android\\QR.Android.csproj",
-      "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriks\\source\\repos\\QR\\QR.Android\\obj\\",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR.Android\\QR.Android.csproj",
+      "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\eriks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4022,8 +4022,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\eriks\\source\\repos\\QR\\QR\\QR.csproj": {
-              "projectPath": "C:\\Users\\eriks\\source\\repos\\QR\\QR\\QR.csproj"
+            "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR\\QR.csproj": {
+              "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR\\QR.csproj"
             }
           }
         }
