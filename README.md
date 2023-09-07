@@ -50,4 +50,9 @@ Texto por ser escrito
 
 ###### Sensor - 07/08/23
 Texto por ser escrito
+
+<!----Separador---->
+
+###### QR - 07/07/23
+Texto por ser escrito
 <!----Separador del directorio con descripcion de los programas---->
