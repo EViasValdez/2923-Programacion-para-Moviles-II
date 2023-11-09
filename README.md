@@ -9,12 +9,12 @@
 <!----Directorio con descripcion de los programas---->
 # Descripcion de los programas
 ###### SQLiteXamarin - 13/05/23
-Texto por ser escrito
+Aplicacion realizada aprovechando los paquetes NuGet de SQLite para una aplicacion de ingreso de datos de un restaurante.
 
 <!----Separador---->
 
 ###### AplicacionMAUI - 15/05/23
-La primera aplicacion que se realizo, usando el formato Xamarin MAUI.
+La primera aplicacion que se realizo aunque no tiene alguna funcion programada, usando el formato Xamarin MAUI.
 
 <!----Separador---->
 
