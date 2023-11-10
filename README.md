@@ -19,7 +19,7 @@ La primera aplicacion que se realizo aunque no tiene alguna funcion programada, 
 <!----Separador---->
 
 ###### PracticaSQL - 25/05/23
-Texto por ser escrito
+Practica de aplicacion con el uso del SQL.
 
 <!----Separador---->
 
