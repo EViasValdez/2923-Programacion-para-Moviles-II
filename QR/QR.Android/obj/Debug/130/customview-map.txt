@@ -21,6 +21,8 @@ com.google.android.material.bottomnavigation.BottomNavigationView;D:\Usuarios\Ed
 com.google.android.material.tabs.TabLayout;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\130\lp\55\jl\res\layout\fallbacktabbardonotuse.xml
 com.google.android.material.tabs.TabLayout;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
 com.google.android.material.tabs.TabLayout;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\130\lp\55\jl\res\layout\tabbar.xml
+crc643f46942d9dd1fff9.ShellFlyoutLayout;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\130\lp\55\jl\res\layout\flyoutcontent.xml
+crc64720bb2db43a66fe9.FormsViewPager;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\130\lp\55\jl\res\layout\rootlayout.xml
 declare-styleable;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\130\lp\55\jl\res\values\attrs.xml
 external-cache-path;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\130\lp\54\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
