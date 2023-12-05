@@ -3,23 +3,23 @@
 <!----Notas----> 
 **Notas**
 
-**- La mayoria de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en ser puestos en este sitio) ademas de que el peso puede pasar de los 500 a 600 megas.**
+**- La mayoría de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en ser puestos en este sitio) además de que el peso puede pasar de los 500 a 600 megas.**
 <!----Separador de las notas---->
 
-<!----Directorio con descripcion de los programas---->
-# Descripcion de los programas
+<!----Directorio con descripción de los programas---->
+# Descripción de los programas
 ###### SQLiteXamarin - 13/05/23
-Aplicacion realizada aprovechando los paquetes NuGet de SQLite para una aplicacion de ingreso de datos de un restaurante.
+Aplicación realizada aprovechando los paquetes NuGet de SQLite para una aplicación de ingreso de datos de un restaurante.
 
 <!----Separador---->
 
 ###### AplicacionMAUI - 15/05/23
-La primera aplicacion que se realizo aunque no tiene alguna funcion programada, usando el formato Xamarin MAUI.
+La primera aplicación que se realizó aunque no tiene alguna función programada, usando el formato Xamarin MAUI.
 
 <!----Separador---->
 
 ###### PracticaSQL - 25/05/23
-Practica de aplicacion con el uso del SQL.
+Practica de aplicación con el uso del SQL.
 
 <!----Separador---->
 
@@ -56,4 +56,4 @@ Texto por ser escrito
 ###### QR - 07/07/23
 Texto por ser escrito
 
-<!----Separador del directorio con descripcion de los programas---->
+<!----Separador del directorio con descripción de los programas---->
