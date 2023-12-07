@@ -56,4 +56,4 @@ Texto por ser escrito
 ###### QR - 07/07/23
 Texto por ser escrito
 
-<!----Separador del directorio con descripción de los programas---->
+<!----Separador del directorio con ubicación de archivos---->
