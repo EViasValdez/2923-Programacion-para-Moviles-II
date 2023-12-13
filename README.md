@@ -24,36 +24,36 @@ Practica de aplicación con el uso del SQL.
 <!----Separador---->
 
 ###### WebServiceP Servidor - 21/06/23
-Texto por ser escrito
+Servidor utilizando WebService.
 
 <!----Separador---->
 
 ###### AppConsulta - 21/06/23
-Texto por ser escrito
+Texto por ser escrito.
 
 <!----Separador---->
 
 ###### AppMQTT - 30/06/23
-Texto por ser escrito
+Texto por ser escrito.
 
 <!----Separador---->
 
 ###### MVVMPrograma - 07/07/23
-Texto por ser escrito
+Texto por ser escrito.
 
 <!----Separador---->
 
 ###### ProyectoXamarin - 11/07/23
-Texto por ser escrito
+Texto por ser escrito.
 
 <!----Separador---->
 
 ###### Sensor - 07/08/23
-Texto por ser escrito
+Texto por ser escrito.
 
 <!----Separador---->
 
 ###### QR - 07/07/23
-Texto por ser escrito
+Texto por ser escrito.
 
 <!----Separador del directorio con ubicación de archivos---->
