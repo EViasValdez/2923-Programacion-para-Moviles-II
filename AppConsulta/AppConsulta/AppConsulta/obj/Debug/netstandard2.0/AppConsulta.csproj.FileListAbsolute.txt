@@ -34,17 +34,3 @@ F:\VS\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.c
 F:\VS\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.dll
 F:\VS\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\refint\AppConsulta.dll
 F:\VS\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.csproj.AssemblyReference.cache
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.GeneratedMSBuildEditorConfig.editorconfig
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\Vistas\ModificarDatos.xaml.g.cs
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\Vistas\PageConsulta.xaml.g.cs
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\Vistas\PageConsultaBusqueda.xaml.g.cs
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\Vistas\PageCosultaPrecio.xaml.g.cs
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\Vistas\TabbedPageMain.xaml.g.cs
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.AssemblyInfoInputs.cache
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.AssemblyInfo.cs
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.csproj.CoreCompileInputs.cache
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.dll
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\refint\AppConsulta.dll
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta\obj\Debug\netstandard2.0\AppConsulta.pdb
