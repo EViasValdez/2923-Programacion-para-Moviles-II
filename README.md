@@ -14,7 +14,7 @@ Aplicación realizada aprovechando los paquetes NuGet de SQLite para una aplicac
 <!----Separador---->
 
 ###### AplicacionMAUI - 15/05/23
-La primera aplicación que se realizó aunque no tiene alguna función programada, usando el formato Xamarin MAUI.
+La primera aplicación que se realizó aunque no tiene alguna función programada, usando el formato Xamarin siendo este MAUI.
 
 <!----Separador---->
 
