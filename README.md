@@ -19,7 +19,7 @@ La primera aplicación que se realizó aunque no tiene alguna función programad
 <!----Separador---->
 
 ###### PracticaSQL - 25/05/23
-Practica de aplicación con el uso del SQL.
+Practica de aplicación con el uso de SQL.
 
 <!----Separador---->
 
