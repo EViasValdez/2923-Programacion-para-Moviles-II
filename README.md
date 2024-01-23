@@ -4,6 +4,8 @@
 **Notas**
 
 **- La mayoría de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en ser puestos en este sitio) además de que el peso puede pasar de los 500 a 600 megas.**
+
+**- Aunque pude reducir el tamaño de los archivos con una limpieza el tamaño de dichos archivos todavía es pesado.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
