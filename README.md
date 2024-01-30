@@ -3,9 +3,9 @@
 <!----Notas----> 
 **Notas**
 
-**- La mayoría de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en ser puestos en este sitio) además de que el peso puede pasar de los 500 a 600 megas (todos comprimidos serian dos o mas GBs).**
+**- La mayoría de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en ser puestos en este sitio) además de que el peso puede pasar de los 500 a 600 megas (dos o más comprimidos serian entre dos o mas GBs).**
 
-**- Aunque pude reducir el tamaño de los archivos con una limpieza el tamaño de dichos archivos todavía es pesado.**
+**- Aunque pude reducir el tamaño de los archivos con una limpieza varios de estos continúan teniendo un peso.**
 
 <!----Separador de las notas---->
 
