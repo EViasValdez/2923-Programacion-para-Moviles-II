@@ -7,6 +7,8 @@
 
 **- Aunque pude reducir el tamaño de los archivos con una limpieza varios de estos continúan teniendo un peso.**
 
+**- De momento removi los archivos que estan en este repositorio.**
+
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
