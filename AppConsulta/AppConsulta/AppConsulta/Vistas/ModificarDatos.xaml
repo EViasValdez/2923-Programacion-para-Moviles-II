@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppConsulta.Vistas.ModificarDatos">
+    <StackLayout BackgroundColor="#e6e6e6">
+        <Grid>
+            <StackLayout Padding="0" Margin="0" HorizontalOptions="FillAndExpand">
+                <Frame HeightRequest="100" Padding="0" Margin="0">
+                </Frame>
+            </StackLayout>
+            <StackLayout Padding="0" Margin="30,80,10,0" HorizontalOptions="FillAndExpand" >
+                <Frame  BackgroundColor="White" HeightRequest="450" HasShadow="True" Padding="0" Margin="0">
+
+                    <StackLayout >
+
+                        <StackLayout Margin="10">
+                            <Label x:Name="lblTitulo" Text="Actualizar" TextColor="Black" FontSize="Title" HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                        </StackLayout>
+
+                        <StackLayout Padding="0" Margin="15,10">
+
+                                    <Entry x:Name="txtNombre" Placeholder="Nombre" PlaceholderColor="Gray" TextColor="#09385c" FontAttributes="None" 
+                                           HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+
+
+                                    <Entry x:Name="txtDescripcion" Placeholder="Descrpcion" PlaceholderColor="Gray" TextColor="#09385c" 
+                                           FontAttributes="None" HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+
+
+                                    <Entry x:Name="txtPrecio" Placeholder="Precio" Keyboard="Numeric" PlaceholderColor="Gray" TextColor="#09385c" 
+                                           FontAttributes="None" HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+
+
+                            <Frame BackgroundColor="Transparent" Margin="0,15,0,0">
+                                <Button x:Name="btnActualizar" Text="Actualizar" BackgroundColor="#09385c" TextColor="White" CornerRadius="30" Clicked="btnActualizar_Clicked" />
+                            </Frame>
+
+                            <Frame BackgroundColor="Transparent" Margin="0,15,0,0" IsVisible="false">
+                                <Button x:Name="btnAgregar" Text="Agregar" BackgroundColor="#09385c" TextColor="White" CornerRadius="30" IsVisible="false" Clicked="btnAgregar_Clicked"/>
+                            </Frame>
+
+                        </StackLayout>
+
+                    </StackLayout>
+
+                </Frame>
+                <ImageButton x:Name="btnEliminar" Source="eliminar.png" BackgroundColor="Transparent" 
+                             HeightRequest="50" HorizontalOptions="Center" Clicked="btnEliminar_Clicked"/>
+            </StackLayout>
+        </Grid>
+    </StackLayout>
+</ContentPage>
