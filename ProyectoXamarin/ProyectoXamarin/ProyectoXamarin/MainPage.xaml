@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoXamarin.MainPage">
+
+    <StackLayout BackgroundColor="DarkBlue">
+        <Frame BackgroundColor="DarkGreen" Padding="24" CornerRadius="0">
+            <Label Text="Bienvenido a Pruebas AXiTra" HorizontalTextAlignment="Center" TextColor="White" FontSize="40"/>
+        </Frame>
+        <ImageButton Source="Imagen.png" 
+            BackgroundColor="Transparent"
+            WidthRequest="200"
+            HeightRequest="200"
+            FlexLayout.AlignSelf="Center"
+            FlexLayout.Grow="1"
+            Aspect="AspectFit">
+        </ImageButton>
+        <Label Text="Proceda a ingresar sus datos y conectar la base de datos a la aplicacion" HorizontalTextAlignment="Center" TextColor="White" FontSize="18" Padding="30,0,30,0"/>
+        <Label TextColor="White" Text="Nombre" />
+        <Entry TextColor="White" x:Name="ENombre" Placeholder="" />
+        <Label TextColor="White" Text="Contraseña" />
+        <Entry TextColor="White" x:Name="EContraseña" Placeholder="" />
+        <Label FontSize="16" Padding="30,24,30,0">
+        </Label>
+        <Button Text="Conectar" />
+    </StackLayout>
+</ContentPage>
