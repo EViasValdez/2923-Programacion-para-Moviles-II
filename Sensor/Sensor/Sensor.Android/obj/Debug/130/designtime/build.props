@@ -9,7 +9,7 @@ androidlinktool=
 androidlinkresources=
 androidpackageformat=apk
 embedassembliesintoapk=false
-androidlinkmode=none
+androidlinkmode=full
 androidlinkskip=
 androidsdkbuildtoolsversion=32.0.0
 androidsdkpath=c:\program files (x86)\android\android-sdk\
@@ -32,4 +32,4 @@ armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=d:\usuarios\eduardo\documentos\2923-programacion-para-moviles-ii-main\sensor\sensor\sensor.android\sensor.android.csproj
+projectfullpath=d:\usuarios\eduardo\documentos\github\2923-programacion-para-moviles-ii\sensor\sensor\sensor.android\sensor.android.csproj
