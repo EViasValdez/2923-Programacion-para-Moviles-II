@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qwLL2DX0e0edWrQuX2F6JhfUoKlV03cvqouGv92JJIB2Qzga2Jzi6CVY5RDHfwbY5o1Ad0R7E5aB0YW6LuIL1g==",
+  "dgSpecHash": "gQQtFdbAUbIOYdfD0shX3b4n1Y7qmc8SncbQ85JAPPKnbRpaYJ5RIE7KVWpOZ85uu8LPS9ATMDxDJqM6HT4Kyg==",
   "success": true,
-  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
