@@ -52,7 +52,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### Sensor - 07/08/23
-Texto por ser escrito.
+Uso de un sensor dentro de una aplicacion.
 
 <!----Separador---->
 
