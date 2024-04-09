@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
         "projectName": "AppMQTT.Android",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT.Android\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj": {
-                "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj"
+              "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj": {
+                "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj",
         "projectName": "AppMQTT",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\AppMQTT\\AppMQTT\\AppMQTT\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -135,7 +135,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

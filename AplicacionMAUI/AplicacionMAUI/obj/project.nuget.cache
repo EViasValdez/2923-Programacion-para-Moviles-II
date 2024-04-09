@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k0qrhjFS8USR1cSirnsFuAzPAozvgEgdJO5NwG2ohXcq4zAZIDcPY4qjiQqer7Wz3L/X8o1lxThZ7mQOTxFwPQ==",
+  "dgSpecHash": "D53N/SU3xSt/j32LCFuiuCRsjuuAIYJFZVfzQyyw8ClKM/kXloxpMX5WJ71Nyv2xTZPGz/ICXlK66NNQkOa1Kg==",
   "success": false,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\AplicacionMAUI\\AplicacionMAUI\\AplicacionMAUI.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AplicacionMAUI\\AplicacionMAUI\\AplicacionMAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
   ],

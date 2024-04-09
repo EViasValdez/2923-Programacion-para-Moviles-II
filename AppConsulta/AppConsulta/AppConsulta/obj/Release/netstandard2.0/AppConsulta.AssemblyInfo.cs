@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppConsulta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+004e3f95cd06da3697884948c783e447f759d899")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b58e5f9eb179062c431f6b31f8ccb519883eff6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppConsulta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppConsulta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
