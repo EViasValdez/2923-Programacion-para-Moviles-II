@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mKAX6V2NOvmJ/FQBTjYrvOOLnmoKwIbYnvV3Z9F1vsnFUQBPGOp3cPuaB1qmJHN75iPHA76HRekj+vOLkQlZSg==",
+  "dgSpecHash": "d+sA0R1n6uRyYVfqXncGtpRHvlP9h3YswNPLg+UunmhcSBoob6kYIJ0TmfPux6sgLtGdArFeEzXMyhK7rWjk/A==",
   "success": true,
-  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\QR\\QR.Android\\QR.Android.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR.Android\\QR.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\fastandroidcamera\\2.0.0\\fastandroidcamera.2.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

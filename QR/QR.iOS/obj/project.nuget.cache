@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b6ZnMyDMItyVz3XAtvpm7EuPhwXtqNxAB9dYEXAgG6CteTkKnHjaiJg0wz+v6fwe9GazhparsVJvTXCWuzE7gg==",
+  "dgSpecHash": "GeFCDMLWAMO5wIjnr1HK+olz2e0S4vriOOObYlPuagWapqvydGWgYYe2ZjhyegA9wMaTAVzm8HCf5hY7df19pg==",
   "success": true,
-  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\QR\\QR.iOS\\QR.iOS.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR.iOS\\QR.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",

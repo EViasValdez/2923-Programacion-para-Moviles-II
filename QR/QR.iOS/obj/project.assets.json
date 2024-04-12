@@ -1882,11 +1882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\QR\\QR.iOS\\QR.iOS.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR.iOS\\QR.iOS.csproj",
       "projectName": "QR.iOS",
-      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\QR\\QR.iOS\\QR.iOS.csproj",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR.iOS\\QR.iOS.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\QR\\QR.iOS\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1907,8 +1907,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\QR\\QR\\QR.csproj": {
-              "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\QR\\QR\\QR.csproj"
+            "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR\\QR.csproj": {
+              "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\QR\\QR\\QR.csproj"
             }
           }
         }
