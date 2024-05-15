@@ -8,7 +8,7 @@
     Para obtener más información acerca de los archivos de manifiesto del paquete, vea http://go.microsoft.com/fwlink/?LinkID=241727
   -->
   <Identity Name="com.companyname.aplicacionmaui" Publisher="CN=User Name" Version="1.0.0.1" ProcessorArchitecture="x64" />
-  <mp:PhoneIdentity PhoneProductId="090435A8-8AA7-417F-9F42-8A3CAA35D162" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <mp:PhoneIdentity PhoneProductId="592E7FD7-B57B-4E40-8DD1-24F150575B31" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>AplicacionMAUI</DisplayName>
     <PublisherDisplayName>User Name</PublisherDisplayName>
