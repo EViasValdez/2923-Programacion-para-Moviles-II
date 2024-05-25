@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.csproj",
         "projectName": "ProyectoXamarin",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\ProyectoXamarin\\ProyectoXamarin\\ProyectoXamarin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
