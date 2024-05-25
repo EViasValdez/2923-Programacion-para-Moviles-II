@@ -13,3 +13,19 @@ E:\VS\Programacion para moviles II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0
 E:\VS\Programacion para moviles II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.dll
 E:\VS\Programacion para moviles II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\refint\Sensor.dll
 E:\VS\Programacion para moviles II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\bin\Debug\netstandard2.0\Sensor.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\bin\Debug\netstandard2.0\Sensor.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\bin\Debug\netstandard2.0\ref\Sensor.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\bin\Debug\netstandard2.0\Sensor.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\refint\Sensor.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\Sensor\Sensor\Sensor\obj\Debug\netstandard2.0\Sensor.pdb

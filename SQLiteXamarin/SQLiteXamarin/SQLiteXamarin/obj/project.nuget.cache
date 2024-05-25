@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kneifGW2Fv0SMvGDsDfZQw5ldQ/SIUY3Se8FD8Mz+D7U4wsD2N2rgPUTgMYMak35zz1UFqClO9kUca4PbVaKGA==",
+  "dgSpecHash": "Ngzde9cr8G0=",
   "success": true,
-  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\2923-Programacion-para-Moviles-II-main\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.17\\microsoft.data.sqlite.core.5.0.17.nupkg.sha512",
