@@ -47,7 +47,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### ProyectoXamarin - 11/07/23
-Texto por ser escrito.
+Proyecto de registro.
 
 <!----Separador---->
 
@@ -57,6 +57,6 @@ Uso de un sensor dentro de una aplicacion.
 <!----Separador---->
 
 ###### QR - 07/07/23
-Texto por ser escrito.
+Utilizacion de un codigo QR.
 
 <!----Separador del directorio con ubicación de archivos---->
