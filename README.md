@@ -32,7 +32,7 @@ Servidor utilizando WebService.
 <!----Separador---->
 
 ###### AppConsulta - 21/06/23
-Texto por ser escrito.
+Programa que sirve para la consulta de datos en bases de datos.
 
 <!----Separador---->
 
