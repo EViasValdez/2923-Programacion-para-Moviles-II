@@ -1,0 +1,17 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\bin\Debug\netstandard2.0\MVVM2923IS.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\bin\Debug\netstandard2.0\MVVM2923IS.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\bin\Debug\netstandard2.0\MVVM2923IS.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\MVVM2923IS.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\MVVM2923IS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\Views\AlumnoView.xaml.g.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\MVVM2923IS.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\MVVM2923IS.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\MVVM2923IS.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\MVVM2923IS.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\MVVM2923IS.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\refint\MVVM2923IS.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\MVVM2923IS.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MVVM2923IS\MVVM2923IS\MVVM2923IS\obj\Debug\netstandard2.0\ref\MVVM2923IS.dll
