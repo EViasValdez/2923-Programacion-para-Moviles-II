@@ -36,7 +36,17 @@ Programa que sirve para la consulta de datos en bases de datos.
 
 <!----Separador---->
 
+###### MVVM2923IS - 22/06/23
+Texto por ser escrito.
+
+<!----Separador---->
+
 ###### AppMQTT - 30/06/23
+Texto por ser escrito.
+
+<!----Separador---->
+
+###### MagnetoEjemplo - 11/07/23
 Texto por ser escrito.
 
 <!----Separador---->
