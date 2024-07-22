@@ -27,7 +27,7 @@ Practica de aplicación con el uso de SQL.
 <!----Separador---->
 
 ###### WebServiceP Servidor - 21/06/23
-Servidor utilizando WebService.
+Servidor utilizando WebService via C#.
 
 <!----Separador---->
 
@@ -37,7 +37,7 @@ Programa que sirve para la consulta de datos en bases de datos.
 <!----Separador---->
 
 ###### MVVM2923IS - 22/06/23
-Texto por ser escrito.
+Aplicacion tomando en cuenta el metodo MVM.
 
 <!----Separador---->
 
