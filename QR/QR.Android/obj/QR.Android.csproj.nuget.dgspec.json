@@ -49,37 +49,17 @@
           "dependencies": {
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.0, )"
-            },
-            "Xamarin.Essentials": {
-              "target": "Package",
-              "version": "[1.7.0, )"
+              "version": "[1.8.1, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2196, )"
-            },
-            "Xamarin.Forms": {
-              "target": "Package",
-              "version": "[5.0.0.2196, )"
-            },
-            "ZXing.Net": {
-              "target": "Package",
-              "version": "[0.16.9, )"
+              "version": "[5.0.0.2662, )"
             },
             "ZXing.Net": {
               "target": "Package",
               "version": "[0.16.9, )"
             },
             "ZXing.Net.Mobile": {
-              "target": "Package",
-              "version": "[2.4.1, )"
-            },
-            "ZXing.Net.Mobile": {
-              "target": "Package",
-              "version": "[2.4.1, )"
-            },
-            "ZXing.Net.Mobile.Forms": {
               "target": "Package",
               "version": "[2.4.1, )"
             },
@@ -175,7 +155,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

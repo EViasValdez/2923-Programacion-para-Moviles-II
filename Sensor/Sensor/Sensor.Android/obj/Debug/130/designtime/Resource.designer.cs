@@ -265,10 +265,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.fragment_fade_exit = global::Sensor.Droid.Resource.Animator.fragment_fade_exit;
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.fragment_open_enter = global::Sensor.Droid.Resource.Animator.fragment_open_enter;
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.fragment_open_exit = global::Sensor.Droid.Resource.Animator.fragment_open_exit;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.linear_indeterminate_line1_head_interpolator = global::Sensor.Droid.Resource.Animator.linear_indeterminate_line1_head_interpolator;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.linear_indeterminate_line1_tail_interpolator = global::Sensor.Droid.Resource.Animator.linear_indeterminate_line1_tail_interpolator;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.linear_indeterminate_line2_head_interpolator = global::Sensor.Droid.Resource.Animator.linear_indeterminate_line2_head_interpolator;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.linear_indeterminate_line2_tail_interpolator = global::Sensor.Droid.Resource.Animator.linear_indeterminate_line2_tail_interpolator;
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_state_list_anim = global::Sensor.Droid.Resource.Animator.mtrl_btn_state_list_anim;
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::Sensor.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_card_state_list_anim = global::Sensor.Droid.Resource.Animator.mtrl_card_state_list_anim;
@@ -513,7 +509,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSurface = global::Sensor.Droid.Resource.Attribute.colorSurface;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::Sensor.Droid.Resource.Attribute.colorSwitchThumbNormal;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.commitIcon = global::Sensor.Droid.Resource.Attribute.commitIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ConstraintRotate = global::Sensor.Droid.Resource.Attribute.ConstraintRotate;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.constraints = global::Sensor.Droid.Resource.Attribute.constraints;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.constraintSet = global::Sensor.Droid.Resource.Attribute.constraintSet;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.constraintSetEnd = global::Sensor.Droid.Resource.Attribute.constraintSetEnd;
@@ -1209,7 +1204,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textureHeight = global::Sensor.Droid.Resource.Attribute.textureHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textureWidth = global::Sensor.Droid.Resource.Attribute.textureWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.theme = global::Sensor.Droid.Resource.Attribute.theme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.themeLineHeight = global::Sensor.Droid.Resource.Attribute.themeLineHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thickness = global::Sensor.Droid.Resource.Attribute.thickness;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbColor = global::Sensor.Droid.Resource.Attribute.thumbColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbElevation = global::Sensor.Droid.Resource.Attribute.thumbElevation;
@@ -1351,7 +1345,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_light_background = global::Sensor.Droid.Resource.Color.cardview_light_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_end_color = global::Sensor.Droid.Resource.Color.cardview_shadow_end_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_start_color = global::Sensor.Droid.Resource.Color.cardview_shadow_start_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.checkbox_themeable_attribute_color = global::Sensor.Droid.Resource.Color.checkbox_themeable_attribute_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.design_bottom_navigation_shadow_color = global::Sensor.Droid.Resource.Color.design_bottom_navigation_shadow_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.design_box_stroke_color = global::Sensor.Droid.Resource.Color.design_box_stroke_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.design_dark_default_color_background = global::Sensor.Droid.Resource.Color.design_dark_default_color_background;
@@ -1496,7 +1489,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_light = global::Sensor.Droid.Resource.Color.primary_text_default_material_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_dark = global::Sensor.Droid.Resource.Color.primary_text_disabled_material_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_light = global::Sensor.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.radiobutton_themeable_attribute_color = global::Sensor.Droid.Resource.Color.radiobutton_themeable_attribute_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_dark = global::Sensor.Droid.Resource.Color.ripple_material_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_light = global::Sensor.Droid.Resource.Color.ripple_material_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_dark = global::Sensor.Droid.Resource.Color.secondary_text_default_material_dark;
@@ -1509,8 +1501,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_light = global::Sensor.Droid.Resource.Color.switch_thumb_material_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_dark = global::Sensor.Droid.Resource.Color.switch_thumb_normal_material_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_light = global::Sensor.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.test_mtrl_calendar_day = global::Sensor.Droid.Resource.Color.test_mtrl_calendar_day;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.test_mtrl_calendar_day_selected = global::Sensor.Droid.Resource.Color.test_mtrl_calendar_day_selected;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_dark = global::Sensor.Droid.Resource.Color.tooltip_background_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_light = global::Sensor.Droid.Resource.Color.tooltip_background_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::Sensor.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
@@ -1594,7 +1584,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Sensor.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material = global::Sensor.Droid.Resource.Dimension.abc_text_size_title_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::Sensor.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.action_bar_size = global::Sensor.Droid.Resource.Dimension.action_bar_size;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.appcompat_dialog_background_inset = global::Sensor.Droid.Resource.Dimension.appcompat_dialog_background_inset;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_compat_inset_shadow = global::Sensor.Droid.Resource.Dimension.cardview_compat_inset_shadow;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_elevation = global::Sensor.Droid.Resource.Dimension.cardview_default_elevation;
@@ -1607,7 +1596,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_control_corner_material = global::Sensor.Droid.Resource.Dimension.compat_control_corner_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_height = global::Sensor.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_width = global::Sensor.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.default_dimension = global::Sensor.Droid.Resource.Dimension.default_dimension;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.def_drawer_elevation = global::Sensor.Droid.Resource.Dimension.def_drawer_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_appbar_elevation = global::Sensor.Droid.Resource.Dimension.design_appbar_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Sensor.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
@@ -1679,11 +1667,8 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_clock_hand_stroke_width = global::Sensor.Droid.Resource.Dimension.material_clock_hand_stroke_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_clock_number_text_size = global::Sensor.Droid.Resource.Dimension.material_clock_number_text_size;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_clock_period_toggle_height = global::Sensor.Droid.Resource.Dimension.material_clock_period_toggle_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_clock_period_toggle_margin_left = global::Sensor.Droid.Resource.Dimension.material_clock_period_toggle_margin_left;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_clock_period_toggle_width = global::Sensor.Droid.Resource.Dimension.material_clock_period_toggle_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_clock_size = global::Sensor.Droid.Resource.Dimension.material_clock_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_cursor_inset_bottom = global::Sensor.Droid.Resource.Dimension.material_cursor_inset_bottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_cursor_inset_top = global::Sensor.Droid.Resource.Dimension.material_cursor_inset_top;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_cursor_width = global::Sensor.Droid.Resource.Dimension.material_cursor_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_emphasis_disabled = global::Sensor.Droid.Resource.Dimension.material_emphasis_disabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_emphasis_high_type = global::Sensor.Droid.Resource.Dimension.material_emphasis_high_type;
@@ -1701,8 +1686,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_textinput_default_width = global::Sensor.Droid.Resource.Dimension.material_textinput_default_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_textinput_max_width = global::Sensor.Droid.Resource.Dimension.material_textinput_max_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_textinput_min_width = global::Sensor.Droid.Resource.Dimension.material_textinput_min_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_text_view_test_line_height = global::Sensor.Droid.Resource.Dimension.material_text_view_test_line_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_text_view_test_line_height_override = global::Sensor.Droid.Resource.Dimension.material_text_view_test_line_height_override;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_timepicker_dialog_buttons_margin_top = global::Sensor.Droid.Resource.Dimension.material_timepicker_dialog_buttons_margin_top;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_time_picker_minimum_screen_height = global::Sensor.Droid.Resource.Dimension.material_time_picker_minimum_screen_height;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.material_time_picker_minimum_screen_width = global::Sensor.Droid.Resource.Dimension.material_time_picker_minimum_screen_width;
@@ -1799,12 +1782,10 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_card_spacing = global::Sensor.Droid.Resource.Dimension.mtrl_card_spacing;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_pressed_translation_z = global::Sensor.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_text_size = global::Sensor.Droid.Resource.Dimension.mtrl_chip_text_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_edittext_rectangle_top_offset = global::Sensor.Droid.Resource.Dimension.mtrl_edittext_rectangle_top_offset;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::Sensor.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::Sensor.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::Sensor.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_extended_fab_corner_radius = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_extended_fab_elevation = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
@@ -1828,7 +1809,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_large_touch_target = global::Sensor.Droid.Resource.Dimension.mtrl_large_touch_target;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_low_ripple_default_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
@@ -1876,7 +1856,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_slider_thumb_radius = global::Sensor.Droid.Resource.Dimension.mtrl_slider_thumb_radius;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_slider_track_height = global::Sensor.Droid.Resource.Dimension.mtrl_slider_track_height;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_slider_track_side_padding = global::Sensor.Droid.Resource.Dimension.mtrl_slider_track_side_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_slider_track_top = global::Sensor.Droid.Resource.Dimension.mtrl_slider_track_top;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_slider_widget_height = global::Sensor.Droid.Resource.Dimension.mtrl_slider_widget_height;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::Sensor.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
@@ -1916,18 +1895,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_subtext_size = global::Sensor.Droid.Resource.Dimension.notification_subtext_size;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad = global::Sensor.Droid.Resource.Dimension.notification_top_pad;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad_large_text = global::Sensor.Droid.Resource.Dimension.notification_top_pad_large_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::Sensor.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_active_item_max_width = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_active_item_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_active_item_min_width = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_active_item_min_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_active_text_size = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_active_text_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_elevation = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_height = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_icon_size = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_icon_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_item_max_width = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_item_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_item_min_width = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_item_min_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_label_padding = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_label_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_shadow_height = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_shadow_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.test_navigation_bar_text_size = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_text_size;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_corner_radius = global::Sensor.Droid.Resource.Dimension.tooltip_corner_radius;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_horizontal_padding = global::Sensor.Droid.Resource.Dimension.tooltip_horizontal_padding;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_margin = global::Sensor.Droid.Resource.Dimension.tooltip_margin;
@@ -2054,7 +2021,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_ic_error = global::Sensor.Droid.Resource.Drawable.mtrl_ic_error;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_navigation_bar_item_background = global::Sensor.Droid.Resource.Drawable.mtrl_navigation_bar_item_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_popupmenu_background = global::Sensor.Droid.Resource.Drawable.mtrl_popupmenu_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_popupmenu_background_dark = global::Sensor.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_tabs_default_indicator = global::Sensor.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.navigation_empty_icon = global::Sensor.Droid.Resource.Drawable.navigation_empty_icon;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_action_background = global::Sensor.Droid.Resource.Drawable.notification_action_background;
@@ -2069,7 +2035,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_low_bg = global::Sensor.Droid.Resource.Drawable.notification_template_icon_low_bg;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_tile_bg = global::Sensor.Droid.Resource.Drawable.notification_tile_bg;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::Sensor.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.test_custom_background = global::Sensor.Droid.Resource.Drawable.test_custom_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_dark = global::Sensor.Droid.Resource.Drawable.tooltip_frame_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_light = global::Sensor.Droid.Resource.Drawable.tooltip_frame_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.accelerate = global::Sensor.Droid.Resource.Id.accelerate;
@@ -2174,11 +2139,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.chains = global::Sensor.Droid.Resource.Id.chains;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.checkbox = global::Sensor.Droid.Resource.Id.checkbox;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.@checked = global::Sensor.Droid.Resource.Id.@checked;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.chip = global::Sensor.Droid.Resource.Id.chip;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.chip1 = global::Sensor.Droid.Resource.Id.chip1;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.chip2 = global::Sensor.Droid.Resource.Id.chip2;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.chip3 = global::Sensor.Droid.Resource.Id.chip3;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.chip_group = global::Sensor.Droid.Resource.Id.chip_group;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.chronometer = global::Sensor.Droid.Resource.Id.chronometer;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.circle_center = global::Sensor.Droid.Resource.Id.circle_center;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.clear_text = global::Sensor.Droid.Resource.Id.clear_text;
@@ -2267,7 +2227,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.grouping = global::Sensor.Droid.Resource.Id.grouping;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.groups = global::Sensor.Droid.Resource.Id.groups;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.group_divider = global::Sensor.Droid.Resource.Id.group_divider;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.guideline = global::Sensor.Droid.Resource.Id.guideline;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.header_title = global::Sensor.Droid.Resource.Id.header_title;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.hideable = global::Sensor.Droid.Resource.Id.hideable;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.home = global::Sensor.Droid.Resource.Id.home;
@@ -2320,7 +2279,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.material_textinput_timepicker = global::Sensor.Droid.Resource.Id.material_textinput_timepicker;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.material_timepicker_cancel_button = global::Sensor.Droid.Resource.Id.material_timepicker_cancel_button;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.material_timepicker_container = global::Sensor.Droid.Resource.Id.material_timepicker_container;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.material_timepicker_edit_text = global::Sensor.Droid.Resource.Id.material_timepicker_edit_text;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.material_timepicker_mode_button = global::Sensor.Droid.Resource.Id.material_timepicker_mode_button;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.material_timepicker_ok_button = global::Sensor.Droid.Resource.Id.material_timepicker_ok_button;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.material_timepicker_view = global::Sensor.Droid.Resource.Id.material_timepicker_view;
@@ -2495,10 +2453,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_event_manager = global::Sensor.Droid.Resource.Id.tag_unhandled_key_event_manager;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_listeners = global::Sensor.Droid.Resource.Id.tag_unhandled_key_listeners;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_window_insets_animation_callback = global::Sensor.Droid.Resource.Id.tag_window_insets_animation_callback;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.test_checkbox_android_button_tint = global::Sensor.Droid.Resource.Id.test_checkbox_android_button_tint;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.test_checkbox_app_button_tint = global::Sensor.Droid.Resource.Id.test_checkbox_app_button_tint;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.test_radiobutton_android_button_tint = global::Sensor.Droid.Resource.Id.test_radiobutton_android_button_tint;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.test_radiobutton_app_button_tint = global::Sensor.Droid.Resource.Id.test_radiobutton_app_button_tint;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.text = global::Sensor.Droid.Resource.Id.text;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.text2 = global::Sensor.Droid.Resource.Id.text2;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textEnd = global::Sensor.Droid.Resource.Id.textEnd;
@@ -2555,7 +2509,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.wrap_content_constrained = global::Sensor.Droid.Resource.Id.wrap_content_constrained;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.x_left = global::Sensor.Droid.Resource.Id.x_left;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.x_right = global::Sensor.Droid.Resource.Id.x_right;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.zero_corner_chip = global::Sensor.Droid.Resource.Id.zero_corner_chip;
 			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityDefaultDur = global::Sensor.Droid.Resource.Integer.abc_config_activityDefaultDur;
 			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityShortDur = global::Sensor.Droid.Resource.Integer.abc_config_activityShortDur;
 			global::Xamarin.Forms.Platform.Android.Resource.Integer.app_bar_elevation_anim_duration = global::Sensor.Droid.Resource.Integer.app_bar_elevation_anim_duration;
@@ -2709,21 +2662,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.ShellContent = global::Sensor.Droid.Resource.Layout.ShellContent;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::Sensor.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.Tabbar = global::Sensor.Droid.Resource.Layout.Tabbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_action_chip = global::Sensor.Droid.Resource.Layout.test_action_chip;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_chip_zero_corner_radius = global::Sensor.Droid.Resource.Layout.test_chip_zero_corner_radius;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_design_checkbox = global::Sensor.Droid.Resource.Layout.test_design_checkbox;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_design_radiobutton = global::Sensor.Droid.Resource.Layout.test_design_radiobutton;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_navigation_bar_item_layout = global::Sensor.Droid.Resource.Layout.test_navigation_bar_item_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_reflow_chipgroup = global::Sensor.Droid.Resource.Layout.test_reflow_chipgroup;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_toolbar = global::Sensor.Droid.Resource.Layout.test_toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_toolbar_custom_background = global::Sensor.Droid.Resource.Layout.test_toolbar_custom_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_toolbar_elevation = global::Sensor.Droid.Resource.Layout.test_toolbar_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_toolbar_surface = global::Sensor.Droid.Resource.Layout.test_toolbar_surface;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.text_view_without_line_height = global::Sensor.Droid.Resource.Layout.text_view_without_line_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.text_view_with_line_height_from_appearance = global::Sensor.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.text_view_with_line_height_from_layout = global::Sensor.Droid.Resource.Layout.text_view_with_line_height_from_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.text_view_with_line_height_from_style = global::Sensor.Droid.Resource.Layout.text_view_with_line_height_from_style;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.text_view_with_theme_line_height = global::Sensor.Droid.Resource.Layout.text_view_with_theme_line_height;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.Toolbar = global::Sensor.Droid.Resource.Layout.Toolbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Plurals.mtrl_badge_content_description = global::Sensor.Droid.Resource.Plurals.mtrl_badge_content_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_home_description = global::Sensor.Droid.Resource.String.abc_action_bar_home_description;
@@ -2759,7 +2697,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_content_description = global::Sensor.Droid.Resource.String.character_counter_content_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_overflowed_content_description = global::Sensor.Droid.Resource.String.character_counter_overflowed_content_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_pattern = global::Sensor.Droid.Resource.String.character_counter_pattern;
-			global::Xamarin.Forms.Platform.Android.Resource.String.chip_text = global::Sensor.Droid.Resource.String.chip_text;
 			global::Xamarin.Forms.Platform.Android.Resource.String.clear_text_end_icon_content_description = global::Sensor.Droid.Resource.String.clear_text_end_icon_content_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.error_icon_content_description = global::Sensor.Droid.Resource.String.error_icon_content_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.exposed_dropdown_menu_content_description = global::Sensor.Droid.Resource.String.exposed_dropdown_menu_content_description;
@@ -2835,7 +2772,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.String.status_bar_notification_info_overflow = global::Sensor.Droid.Resource.String.status_bar_notification_info_overflow;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat = global::Sensor.Droid.Resource.Style.AlertDialog_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat_Light = global::Sensor.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.AndroidThemeColorAccentYellow = global::Sensor.Droid.Resource.Style.AndroidThemeColorAccentYellow;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Dialog = global::Sensor.Droid.Resource.Style.Animation_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::Sensor.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Tooltip = global::Sensor.Droid.Resource.Style.Animation_AppCompat_Tooltip;
@@ -3066,7 +3002,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::Sensor.Droid.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::Sensor.Droid.Resource.Style.CardView_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewTheme = global::Sensor.Droid.Resource.Style.collectionViewTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.EmptyTheme = global::Sensor.Droid.Resource.Style.EmptyTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.MainTheme = global::Sensor.Droid.Resource.Style.MainTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.MainTheme_Base = global::Sensor.Droid.Resource.Style.MainTheme_Base;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.MaterialAlertDialog_MaterialComponents = global::Sensor.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
@@ -3112,11 +3047,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Sensor.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.scrollViewScrollBars = global::Sensor.Droid.Resource.Style.scrollViewScrollBars;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.scrollViewTheme = global::Sensor.Droid.Resource.Style.scrollViewTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_Cut = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
@@ -3125,25 +3055,11 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearance_MaterialComponents = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TestStyleWithLineHeight = global::Sensor.Droid.Resource.Style.TestStyleWithLineHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TestStyleWithLineHeightAppearance = global::Sensor.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TestStyleWithoutLineHeight = global::Sensor.Droid.Resource.Style.TestStyleWithoutLineHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::Sensor.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TestThemeWithLineHeight = global::Sensor.Droid.Resource.Style.TestThemeWithLineHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TestThemeWithLineHeightDisabled = global::Sensor.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::Sensor.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::Sensor.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::Sensor.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::Sensor.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::Sensor.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat = global::Sensor.Droid.Resource.Style.TextAppearance_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::Sensor.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::Sensor.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
@@ -3233,7 +3149,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sensor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sensor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sensor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlayColorAccentRed = global::Sensor.Droid.Resource.Style.ThemeOverlayColorAccentRed;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::Sensor.Droid.Resource.Style.ThemeOverlay_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Sensor.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Sensor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
@@ -3340,7 +3255,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
@@ -3354,7 +3268,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
@@ -4269,7 +4182,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_barrierDirection = global::Sensor.Droid.Resource.Styleable.ConstraintSet_barrierDirection;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_barrierMargin = global::Sensor.Droid.Resource.Styleable.ConstraintSet_barrierMargin;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_chainUseRtl = global::Sensor.Droid.Resource.Styleable.ConstraintSet_chainUseRtl;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_ConstraintRotate = global::Sensor.Droid.Resource.Styleable.ConstraintSet_ConstraintRotate;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_constraint_referenced_ids = global::Sensor.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_ids;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_constraint_referenced_tags = global::Sensor.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_tags;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_deriveConstraintsFrom = global::Sensor.Droid.Resource.Styleable.ConstraintSet_deriveConstraintsFrom;
@@ -5498,11 +5410,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingEnd = global::Sensor.Droid.Resource.Styleable.View_paddingEnd;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingStart = global::Sensor.Droid.Resource.Styleable.View_paddingStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_theme = global::Sensor.Droid.Resource.Styleable.View_theme;
-			global::Xamarin.Forms.Platform.Android.Resource.Xml.standalone_badge = global::Sensor.Droid.Resource.Xml.standalone_badge;
-			global::Xamarin.Forms.Platform.Android.Resource.Xml.standalone_badge_gravity_bottom_end = global::Sensor.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
-			global::Xamarin.Forms.Platform.Android.Resource.Xml.standalone_badge_gravity_bottom_start = global::Sensor.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
-			global::Xamarin.Forms.Platform.Android.Resource.Xml.standalone_badge_gravity_top_start = global::Sensor.Droid.Resource.Xml.standalone_badge_gravity_top_start;
-			global::Xamarin.Forms.Platform.Android.Resource.Xml.standalone_badge_offset = global::Sensor.Droid.Resource.Xml.standalone_badge_offset;
 			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_in = global::Sensor.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_out = global::Sensor.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.Forms.Platform.Resource.Animation.abc_grow_fade_in_from_bottom = global::Sensor.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -5552,10 +5459,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Animator.fragment_fade_exit = global::Sensor.Droid.Resource.Animator.fragment_fade_exit;
 			global::Xamarin.Forms.Platform.Resource.Animator.fragment_open_enter = global::Sensor.Droid.Resource.Animator.fragment_open_enter;
 			global::Xamarin.Forms.Platform.Resource.Animator.fragment_open_exit = global::Sensor.Droid.Resource.Animator.fragment_open_exit;
-			global::Xamarin.Forms.Platform.Resource.Animator.linear_indeterminate_line1_head_interpolator = global::Sensor.Droid.Resource.Animator.linear_indeterminate_line1_head_interpolator;
-			global::Xamarin.Forms.Platform.Resource.Animator.linear_indeterminate_line1_tail_interpolator = global::Sensor.Droid.Resource.Animator.linear_indeterminate_line1_tail_interpolator;
-			global::Xamarin.Forms.Platform.Resource.Animator.linear_indeterminate_line2_head_interpolator = global::Sensor.Droid.Resource.Animator.linear_indeterminate_line2_head_interpolator;
-			global::Xamarin.Forms.Platform.Resource.Animator.linear_indeterminate_line2_tail_interpolator = global::Sensor.Droid.Resource.Animator.linear_indeterminate_line2_tail_interpolator;
 			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_btn_state_list_anim = global::Sensor.Droid.Resource.Animator.mtrl_btn_state_list_anim;
 			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::Sensor.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
 			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_card_state_list_anim = global::Sensor.Droid.Resource.Animator.mtrl_card_state_list_anim;
@@ -5800,7 +5703,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Attribute.colorSurface = global::Sensor.Droid.Resource.Attribute.colorSurface;
 			global::Xamarin.Forms.Platform.Resource.Attribute.colorSwitchThumbNormal = global::Sensor.Droid.Resource.Attribute.colorSwitchThumbNormal;
 			global::Xamarin.Forms.Platform.Resource.Attribute.commitIcon = global::Sensor.Droid.Resource.Attribute.commitIcon;
-			global::Xamarin.Forms.Platform.Resource.Attribute.ConstraintRotate = global::Sensor.Droid.Resource.Attribute.ConstraintRotate;
 			global::Xamarin.Forms.Platform.Resource.Attribute.constraints = global::Sensor.Droid.Resource.Attribute.constraints;
 			global::Xamarin.Forms.Platform.Resource.Attribute.constraintSet = global::Sensor.Droid.Resource.Attribute.constraintSet;
 			global::Xamarin.Forms.Platform.Resource.Attribute.constraintSetEnd = global::Sensor.Droid.Resource.Attribute.constraintSetEnd;
@@ -6496,7 +6398,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Attribute.textureHeight = global::Sensor.Droid.Resource.Attribute.textureHeight;
 			global::Xamarin.Forms.Platform.Resource.Attribute.textureWidth = global::Sensor.Droid.Resource.Attribute.textureWidth;
 			global::Xamarin.Forms.Platform.Resource.Attribute.theme = global::Sensor.Droid.Resource.Attribute.theme;
-			global::Xamarin.Forms.Platform.Resource.Attribute.themeLineHeight = global::Sensor.Droid.Resource.Attribute.themeLineHeight;
 			global::Xamarin.Forms.Platform.Resource.Attribute.thickness = global::Sensor.Droid.Resource.Attribute.thickness;
 			global::Xamarin.Forms.Platform.Resource.Attribute.thumbColor = global::Sensor.Droid.Resource.Attribute.thumbColor;
 			global::Xamarin.Forms.Platform.Resource.Attribute.thumbElevation = global::Sensor.Droid.Resource.Attribute.thumbElevation;
@@ -6638,7 +6539,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Color.cardview_light_background = global::Sensor.Droid.Resource.Color.cardview_light_background;
 			global::Xamarin.Forms.Platform.Resource.Color.cardview_shadow_end_color = global::Sensor.Droid.Resource.Color.cardview_shadow_end_color;
 			global::Xamarin.Forms.Platform.Resource.Color.cardview_shadow_start_color = global::Sensor.Droid.Resource.Color.cardview_shadow_start_color;
-			global::Xamarin.Forms.Platform.Resource.Color.checkbox_themeable_attribute_color = global::Sensor.Droid.Resource.Color.checkbox_themeable_attribute_color;
 			global::Xamarin.Forms.Platform.Resource.Color.design_bottom_navigation_shadow_color = global::Sensor.Droid.Resource.Color.design_bottom_navigation_shadow_color;
 			global::Xamarin.Forms.Platform.Resource.Color.design_box_stroke_color = global::Sensor.Droid.Resource.Color.design_box_stroke_color;
 			global::Xamarin.Forms.Platform.Resource.Color.design_dark_default_color_background = global::Sensor.Droid.Resource.Color.design_dark_default_color_background;
@@ -6783,7 +6683,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Color.primary_text_default_material_light = global::Sensor.Droid.Resource.Color.primary_text_default_material_light;
 			global::Xamarin.Forms.Platform.Resource.Color.primary_text_disabled_material_dark = global::Sensor.Droid.Resource.Color.primary_text_disabled_material_dark;
 			global::Xamarin.Forms.Platform.Resource.Color.primary_text_disabled_material_light = global::Sensor.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.radiobutton_themeable_attribute_color = global::Sensor.Droid.Resource.Color.radiobutton_themeable_attribute_color;
 			global::Xamarin.Forms.Platform.Resource.Color.ripple_material_dark = global::Sensor.Droid.Resource.Color.ripple_material_dark;
 			global::Xamarin.Forms.Platform.Resource.Color.ripple_material_light = global::Sensor.Droid.Resource.Color.ripple_material_light;
 			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_default_material_dark = global::Sensor.Droid.Resource.Color.secondary_text_default_material_dark;
@@ -6796,8 +6695,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_material_light = global::Sensor.Droid.Resource.Color.switch_thumb_material_light;
 			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_normal_material_dark = global::Sensor.Droid.Resource.Color.switch_thumb_normal_material_dark;
 			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_normal_material_light = global::Sensor.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::Xamarin.Forms.Platform.Resource.Color.test_mtrl_calendar_day = global::Sensor.Droid.Resource.Color.test_mtrl_calendar_day;
-			global::Xamarin.Forms.Platform.Resource.Color.test_mtrl_calendar_day_selected = global::Sensor.Droid.Resource.Color.test_mtrl_calendar_day_selected;
 			global::Xamarin.Forms.Platform.Resource.Color.tooltip_background_dark = global::Sensor.Droid.Resource.Color.tooltip_background_dark;
 			global::Xamarin.Forms.Platform.Resource.Color.tooltip_background_light = global::Sensor.Droid.Resource.Color.tooltip_background_light;
 			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_content_inset_material = global::Sensor.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
@@ -6881,7 +6778,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Sensor.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
 			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_title_material = global::Sensor.Droid.Resource.Dimension.abc_text_size_title_material;
 			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_title_material_toolbar = global::Sensor.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Xamarin.Forms.Platform.Resource.Dimension.action_bar_size = global::Sensor.Droid.Resource.Dimension.action_bar_size;
 			global::Xamarin.Forms.Platform.Resource.Dimension.appcompat_dialog_background_inset = global::Sensor.Droid.Resource.Dimension.appcompat_dialog_background_inset;
 			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_compat_inset_shadow = global::Sensor.Droid.Resource.Dimension.cardview_compat_inset_shadow;
 			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_default_elevation = global::Sensor.Droid.Resource.Dimension.cardview_default_elevation;
@@ -6894,7 +6790,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Dimension.compat_control_corner_material = global::Sensor.Droid.Resource.Dimension.compat_control_corner_material;
 			global::Xamarin.Forms.Platform.Resource.Dimension.compat_notification_large_icon_max_height = global::Sensor.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
 			global::Xamarin.Forms.Platform.Resource.Dimension.compat_notification_large_icon_max_width = global::Sensor.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.default_dimension = global::Sensor.Droid.Resource.Dimension.default_dimension;
 			global::Xamarin.Forms.Platform.Resource.Dimension.def_drawer_elevation = global::Sensor.Droid.Resource.Dimension.def_drawer_elevation;
 			global::Xamarin.Forms.Platform.Resource.Dimension.design_appbar_elevation = global::Sensor.Droid.Resource.Dimension.design_appbar_elevation;
 			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Sensor.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
@@ -6966,11 +6861,8 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_clock_hand_stroke_width = global::Sensor.Droid.Resource.Dimension.material_clock_hand_stroke_width;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_clock_number_text_size = global::Sensor.Droid.Resource.Dimension.material_clock_number_text_size;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_clock_period_toggle_height = global::Sensor.Droid.Resource.Dimension.material_clock_period_toggle_height;
-			global::Xamarin.Forms.Platform.Resource.Dimension.material_clock_period_toggle_margin_left = global::Sensor.Droid.Resource.Dimension.material_clock_period_toggle_margin_left;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_clock_period_toggle_width = global::Sensor.Droid.Resource.Dimension.material_clock_period_toggle_width;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_clock_size = global::Sensor.Droid.Resource.Dimension.material_clock_size;
-			global::Xamarin.Forms.Platform.Resource.Dimension.material_cursor_inset_bottom = global::Sensor.Droid.Resource.Dimension.material_cursor_inset_bottom;
-			global::Xamarin.Forms.Platform.Resource.Dimension.material_cursor_inset_top = global::Sensor.Droid.Resource.Dimension.material_cursor_inset_top;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_cursor_width = global::Sensor.Droid.Resource.Dimension.material_cursor_width;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_emphasis_disabled = global::Sensor.Droid.Resource.Dimension.material_emphasis_disabled;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_emphasis_high_type = global::Sensor.Droid.Resource.Dimension.material_emphasis_high_type;
@@ -6988,8 +6880,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_textinput_default_width = global::Sensor.Droid.Resource.Dimension.material_textinput_default_width;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_textinput_max_width = global::Sensor.Droid.Resource.Dimension.material_textinput_max_width;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_textinput_min_width = global::Sensor.Droid.Resource.Dimension.material_textinput_min_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.material_text_view_test_line_height = global::Sensor.Droid.Resource.Dimension.material_text_view_test_line_height;
-			global::Xamarin.Forms.Platform.Resource.Dimension.material_text_view_test_line_height_override = global::Sensor.Droid.Resource.Dimension.material_text_view_test_line_height_override;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_timepicker_dialog_buttons_margin_top = global::Sensor.Droid.Resource.Dimension.material_timepicker_dialog_buttons_margin_top;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_time_picker_minimum_screen_height = global::Sensor.Droid.Resource.Dimension.material_time_picker_minimum_screen_height;
 			global::Xamarin.Forms.Platform.Resource.Dimension.material_time_picker_minimum_screen_width = global::Sensor.Droid.Resource.Dimension.material_time_picker_minimum_screen_width;
@@ -7086,12 +6976,10 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_card_spacing = global::Sensor.Droid.Resource.Dimension.mtrl_card_spacing;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_chip_pressed_translation_z = global::Sensor.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_chip_text_size = global::Sensor.Droid.Resource.Dimension.mtrl_chip_text_size;
-			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_edittext_rectangle_top_offset = global::Sensor.Droid.Resource.Dimension.mtrl_edittext_rectangle_top_offset;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::Sensor.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::Sensor.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::Sensor.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
-			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_extended_fab_corner_radius = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_extended_fab_elevation = global::Sensor.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
@@ -7115,7 +7003,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
-			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_large_touch_target = global::Sensor.Droid.Resource.Dimension.mtrl_large_touch_target;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_low_ripple_default_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
@@ -7163,7 +7050,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_slider_thumb_radius = global::Sensor.Droid.Resource.Dimension.mtrl_slider_thumb_radius;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_slider_track_height = global::Sensor.Droid.Resource.Dimension.mtrl_slider_track_height;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_slider_track_side_padding = global::Sensor.Droid.Resource.Dimension.mtrl_slider_track_side_padding;
-			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_slider_track_top = global::Sensor.Droid.Resource.Dimension.mtrl_slider_track_top;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_slider_widget_height = global::Sensor.Droid.Resource.Dimension.mtrl_slider_widget_height;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::Sensor.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
 			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::Sensor.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
@@ -7203,18 +7089,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Dimension.notification_subtext_size = global::Sensor.Droid.Resource.Dimension.notification_subtext_size;
 			global::Xamarin.Forms.Platform.Resource.Dimension.notification_top_pad = global::Sensor.Droid.Resource.Dimension.notification_top_pad;
 			global::Xamarin.Forms.Platform.Resource.Dimension.notification_top_pad_large_text = global::Sensor.Droid.Resource.Dimension.notification_top_pad_large_text;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::Sensor.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_active_item_max_width = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_active_item_max_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_active_item_min_width = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_active_item_min_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_active_text_size = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_active_text_size;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_elevation = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_elevation;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_height = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_height;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_icon_size = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_icon_size;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_item_max_width = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_item_max_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_item_min_width = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_item_min_width;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_label_padding = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_label_padding;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_shadow_height = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_shadow_height;
-			global::Xamarin.Forms.Platform.Resource.Dimension.test_navigation_bar_text_size = global::Sensor.Droid.Resource.Dimension.test_navigation_bar_text_size;
 			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_corner_radius = global::Sensor.Droid.Resource.Dimension.tooltip_corner_radius;
 			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_horizontal_padding = global::Sensor.Droid.Resource.Dimension.tooltip_horizontal_padding;
 			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_margin = global::Sensor.Droid.Resource.Dimension.tooltip_margin;
@@ -7341,7 +7215,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Drawable.mtrl_ic_error = global::Sensor.Droid.Resource.Drawable.mtrl_ic_error;
 			global::Xamarin.Forms.Platform.Resource.Drawable.mtrl_navigation_bar_item_background = global::Sensor.Droid.Resource.Drawable.mtrl_navigation_bar_item_background;
 			global::Xamarin.Forms.Platform.Resource.Drawable.mtrl_popupmenu_background = global::Sensor.Droid.Resource.Drawable.mtrl_popupmenu_background;
-			global::Xamarin.Forms.Platform.Resource.Drawable.mtrl_popupmenu_background_dark = global::Sensor.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
 			global::Xamarin.Forms.Platform.Resource.Drawable.mtrl_tabs_default_indicator = global::Sensor.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
 			global::Xamarin.Forms.Platform.Resource.Drawable.navigation_empty_icon = global::Sensor.Droid.Resource.Drawable.navigation_empty_icon;
 			global::Xamarin.Forms.Platform.Resource.Drawable.notification_action_background = global::Sensor.Droid.Resource.Drawable.notification_action_background;
@@ -7356,7 +7229,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Drawable.notification_template_icon_low_bg = global::Sensor.Droid.Resource.Drawable.notification_template_icon_low_bg;
 			global::Xamarin.Forms.Platform.Resource.Drawable.notification_tile_bg = global::Sensor.Droid.Resource.Drawable.notification_tile_bg;
 			global::Xamarin.Forms.Platform.Resource.Drawable.notify_panel_notification_icon_bg = global::Sensor.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::Xamarin.Forms.Platform.Resource.Drawable.test_custom_background = global::Sensor.Droid.Resource.Drawable.test_custom_background;
 			global::Xamarin.Forms.Platform.Resource.Drawable.tooltip_frame_dark = global::Sensor.Droid.Resource.Drawable.tooltip_frame_dark;
 			global::Xamarin.Forms.Platform.Resource.Drawable.tooltip_frame_light = global::Sensor.Droid.Resource.Drawable.tooltip_frame_light;
 			global::Xamarin.Forms.Platform.Resource.Id.accelerate = global::Sensor.Droid.Resource.Id.accelerate;
@@ -7461,11 +7333,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Id.chains = global::Sensor.Droid.Resource.Id.chains;
 			global::Xamarin.Forms.Platform.Resource.Id.checkbox = global::Sensor.Droid.Resource.Id.checkbox;
 			global::Xamarin.Forms.Platform.Resource.Id.@checked = global::Sensor.Droid.Resource.Id.@checked;
-			global::Xamarin.Forms.Platform.Resource.Id.chip = global::Sensor.Droid.Resource.Id.chip;
-			global::Xamarin.Forms.Platform.Resource.Id.chip1 = global::Sensor.Droid.Resource.Id.chip1;
-			global::Xamarin.Forms.Platform.Resource.Id.chip2 = global::Sensor.Droid.Resource.Id.chip2;
-			global::Xamarin.Forms.Platform.Resource.Id.chip3 = global::Sensor.Droid.Resource.Id.chip3;
-			global::Xamarin.Forms.Platform.Resource.Id.chip_group = global::Sensor.Droid.Resource.Id.chip_group;
 			global::Xamarin.Forms.Platform.Resource.Id.chronometer = global::Sensor.Droid.Resource.Id.chronometer;
 			global::Xamarin.Forms.Platform.Resource.Id.circle_center = global::Sensor.Droid.Resource.Id.circle_center;
 			global::Xamarin.Forms.Platform.Resource.Id.clear_text = global::Sensor.Droid.Resource.Id.clear_text;
@@ -7554,7 +7421,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Id.grouping = global::Sensor.Droid.Resource.Id.grouping;
 			global::Xamarin.Forms.Platform.Resource.Id.groups = global::Sensor.Droid.Resource.Id.groups;
 			global::Xamarin.Forms.Platform.Resource.Id.group_divider = global::Sensor.Droid.Resource.Id.group_divider;
-			global::Xamarin.Forms.Platform.Resource.Id.guideline = global::Sensor.Droid.Resource.Id.guideline;
 			global::Xamarin.Forms.Platform.Resource.Id.header_title = global::Sensor.Droid.Resource.Id.header_title;
 			global::Xamarin.Forms.Platform.Resource.Id.hideable = global::Sensor.Droid.Resource.Id.hideable;
 			global::Xamarin.Forms.Platform.Resource.Id.home = global::Sensor.Droid.Resource.Id.home;
@@ -7607,7 +7473,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Id.material_textinput_timepicker = global::Sensor.Droid.Resource.Id.material_textinput_timepicker;
 			global::Xamarin.Forms.Platform.Resource.Id.material_timepicker_cancel_button = global::Sensor.Droid.Resource.Id.material_timepicker_cancel_button;
 			global::Xamarin.Forms.Platform.Resource.Id.material_timepicker_container = global::Sensor.Droid.Resource.Id.material_timepicker_container;
-			global::Xamarin.Forms.Platform.Resource.Id.material_timepicker_edit_text = global::Sensor.Droid.Resource.Id.material_timepicker_edit_text;
 			global::Xamarin.Forms.Platform.Resource.Id.material_timepicker_mode_button = global::Sensor.Droid.Resource.Id.material_timepicker_mode_button;
 			global::Xamarin.Forms.Platform.Resource.Id.material_timepicker_ok_button = global::Sensor.Droid.Resource.Id.material_timepicker_ok_button;
 			global::Xamarin.Forms.Platform.Resource.Id.material_timepicker_view = global::Sensor.Droid.Resource.Id.material_timepicker_view;
@@ -7782,10 +7647,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Id.tag_unhandled_key_event_manager = global::Sensor.Droid.Resource.Id.tag_unhandled_key_event_manager;
 			global::Xamarin.Forms.Platform.Resource.Id.tag_unhandled_key_listeners = global::Sensor.Droid.Resource.Id.tag_unhandled_key_listeners;
 			global::Xamarin.Forms.Platform.Resource.Id.tag_window_insets_animation_callback = global::Sensor.Droid.Resource.Id.tag_window_insets_animation_callback;
-			global::Xamarin.Forms.Platform.Resource.Id.test_checkbox_android_button_tint = global::Sensor.Droid.Resource.Id.test_checkbox_android_button_tint;
-			global::Xamarin.Forms.Platform.Resource.Id.test_checkbox_app_button_tint = global::Sensor.Droid.Resource.Id.test_checkbox_app_button_tint;
-			global::Xamarin.Forms.Platform.Resource.Id.test_radiobutton_android_button_tint = global::Sensor.Droid.Resource.Id.test_radiobutton_android_button_tint;
-			global::Xamarin.Forms.Platform.Resource.Id.test_radiobutton_app_button_tint = global::Sensor.Droid.Resource.Id.test_radiobutton_app_button_tint;
 			global::Xamarin.Forms.Platform.Resource.Id.text = global::Sensor.Droid.Resource.Id.text;
 			global::Xamarin.Forms.Platform.Resource.Id.text2 = global::Sensor.Droid.Resource.Id.text2;
 			global::Xamarin.Forms.Platform.Resource.Id.textEnd = global::Sensor.Droid.Resource.Id.textEnd;
@@ -7842,7 +7703,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Id.wrap_content_constrained = global::Sensor.Droid.Resource.Id.wrap_content_constrained;
 			global::Xamarin.Forms.Platform.Resource.Id.x_left = global::Sensor.Droid.Resource.Id.x_left;
 			global::Xamarin.Forms.Platform.Resource.Id.x_right = global::Sensor.Droid.Resource.Id.x_right;
-			global::Xamarin.Forms.Platform.Resource.Id.zero_corner_chip = global::Sensor.Droid.Resource.Id.zero_corner_chip;
 			global::Xamarin.Forms.Platform.Resource.Integer.abc_config_activityDefaultDur = global::Sensor.Droid.Resource.Integer.abc_config_activityDefaultDur;
 			global::Xamarin.Forms.Platform.Resource.Integer.abc_config_activityShortDur = global::Sensor.Droid.Resource.Integer.abc_config_activityShortDur;
 			global::Xamarin.Forms.Platform.Resource.Integer.app_bar_elevation_anim_duration = global::Sensor.Droid.Resource.Integer.app_bar_elevation_anim_duration;
@@ -7996,21 +7856,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Layout.ShellContent = global::Sensor.Droid.Resource.Layout.ShellContent;
 			global::Xamarin.Forms.Platform.Resource.Layout.support_simple_spinner_dropdown_item = global::Sensor.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
 			global::Xamarin.Forms.Platform.Resource.Layout.Tabbar = global::Sensor.Droid.Resource.Layout.Tabbar;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_action_chip = global::Sensor.Droid.Resource.Layout.test_action_chip;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_chip_zero_corner_radius = global::Sensor.Droid.Resource.Layout.test_chip_zero_corner_radius;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_design_checkbox = global::Sensor.Droid.Resource.Layout.test_design_checkbox;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_design_radiobutton = global::Sensor.Droid.Resource.Layout.test_design_radiobutton;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_navigation_bar_item_layout = global::Sensor.Droid.Resource.Layout.test_navigation_bar_item_layout;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_reflow_chipgroup = global::Sensor.Droid.Resource.Layout.test_reflow_chipgroup;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_toolbar = global::Sensor.Droid.Resource.Layout.test_toolbar;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_toolbar_custom_background = global::Sensor.Droid.Resource.Layout.test_toolbar_custom_background;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_toolbar_elevation = global::Sensor.Droid.Resource.Layout.test_toolbar_elevation;
-			global::Xamarin.Forms.Platform.Resource.Layout.test_toolbar_surface = global::Sensor.Droid.Resource.Layout.test_toolbar_surface;
-			global::Xamarin.Forms.Platform.Resource.Layout.text_view_without_line_height = global::Sensor.Droid.Resource.Layout.text_view_without_line_height;
-			global::Xamarin.Forms.Platform.Resource.Layout.text_view_with_line_height_from_appearance = global::Sensor.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
-			global::Xamarin.Forms.Platform.Resource.Layout.text_view_with_line_height_from_layout = global::Sensor.Droid.Resource.Layout.text_view_with_line_height_from_layout;
-			global::Xamarin.Forms.Platform.Resource.Layout.text_view_with_line_height_from_style = global::Sensor.Droid.Resource.Layout.text_view_with_line_height_from_style;
-			global::Xamarin.Forms.Platform.Resource.Layout.text_view_with_theme_line_height = global::Sensor.Droid.Resource.Layout.text_view_with_theme_line_height;
 			global::Xamarin.Forms.Platform.Resource.Layout.Toolbar = global::Sensor.Droid.Resource.Layout.Toolbar;
 			global::Xamarin.Forms.Platform.Resource.Plurals.mtrl_badge_content_description = global::Sensor.Droid.Resource.Plurals.mtrl_badge_content_description;
 			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_home_description = global::Sensor.Droid.Resource.String.abc_action_bar_home_description;
@@ -8046,7 +7891,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.String.character_counter_content_description = global::Sensor.Droid.Resource.String.character_counter_content_description;
 			global::Xamarin.Forms.Platform.Resource.String.character_counter_overflowed_content_description = global::Sensor.Droid.Resource.String.character_counter_overflowed_content_description;
 			global::Xamarin.Forms.Platform.Resource.String.character_counter_pattern = global::Sensor.Droid.Resource.String.character_counter_pattern;
-			global::Xamarin.Forms.Platform.Resource.String.chip_text = global::Sensor.Droid.Resource.String.chip_text;
 			global::Xamarin.Forms.Platform.Resource.String.clear_text_end_icon_content_description = global::Sensor.Droid.Resource.String.clear_text_end_icon_content_description;
 			global::Xamarin.Forms.Platform.Resource.String.error_icon_content_description = global::Sensor.Droid.Resource.String.error_icon_content_description;
 			global::Xamarin.Forms.Platform.Resource.String.exposed_dropdown_menu_content_description = global::Sensor.Droid.Resource.String.exposed_dropdown_menu_content_description;
@@ -8122,7 +7966,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.String.status_bar_notification_info_overflow = global::Sensor.Droid.Resource.String.status_bar_notification_info_overflow;
 			global::Xamarin.Forms.Platform.Resource.Style.AlertDialog_AppCompat = global::Sensor.Droid.Resource.Style.AlertDialog_AppCompat;
 			global::Xamarin.Forms.Platform.Resource.Style.AlertDialog_AppCompat_Light = global::Sensor.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.AndroidThemeColorAccentYellow = global::Sensor.Droid.Resource.Style.AndroidThemeColorAccentYellow;
 			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_Dialog = global::Sensor.Droid.Resource.Style.Animation_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_DropDownUp = global::Sensor.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
 			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_Tooltip = global::Sensor.Droid.Resource.Style.Animation_AppCompat_Tooltip;
@@ -8353,7 +8196,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Style.CardView_Dark = global::Sensor.Droid.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Platform.Resource.Style.CardView_Light = global::Sensor.Droid.Resource.Style.CardView_Light;
 			global::Xamarin.Forms.Platform.Resource.Style.collectionViewTheme = global::Sensor.Droid.Resource.Style.collectionViewTheme;
-			global::Xamarin.Forms.Platform.Resource.Style.EmptyTheme = global::Sensor.Droid.Resource.Style.EmptyTheme;
 			global::Xamarin.Forms.Platform.Resource.Style.MainTheme = global::Sensor.Droid.Resource.Style.MainTheme;
 			global::Xamarin.Forms.Platform.Resource.Style.MainTheme_Base = global::Sensor.Droid.Resource.Style.MainTheme_Base;
 			global::Xamarin.Forms.Platform.Resource.Style.MaterialAlertDialog_MaterialComponents = global::Sensor.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
@@ -8399,11 +8241,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Sensor.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
 			global::Xamarin.Forms.Platform.Resource.Style.scrollViewScrollBars = global::Sensor.Droid.Resource.Style.scrollViewScrollBars;
 			global::Xamarin.Forms.Platform.Resource.Style.scrollViewTheme = global::Sensor.Droid.Resource.Style.scrollViewTheme;
-			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay;
-			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
-			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
-			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_Cut = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
-			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
@@ -8412,25 +8249,11 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
-			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
-			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::Sensor.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearance_MaterialComponents = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
-			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
 			global::Xamarin.Forms.Platform.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip = global::Sensor.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip;
-			global::Xamarin.Forms.Platform.Resource.Style.TestStyleWithLineHeight = global::Sensor.Droid.Resource.Style.TestStyleWithLineHeight;
-			global::Xamarin.Forms.Platform.Resource.Style.TestStyleWithLineHeightAppearance = global::Sensor.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
-			global::Xamarin.Forms.Platform.Resource.Style.TestStyleWithoutLineHeight = global::Sensor.Droid.Resource.Style.TestStyleWithoutLineHeight;
-			global::Xamarin.Forms.Platform.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::Sensor.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
-			global::Xamarin.Forms.Platform.Resource.Style.TestThemeWithLineHeight = global::Sensor.Droid.Resource.Style.TestThemeWithLineHeight;
-			global::Xamarin.Forms.Platform.Resource.Style.TestThemeWithLineHeightDisabled = global::Sensor.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
-			global::Xamarin.Forms.Platform.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::Sensor.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
-			global::Xamarin.Forms.Platform.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::Sensor.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
-			global::Xamarin.Forms.Platform.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::Sensor.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
-			global::Xamarin.Forms.Platform.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::Sensor.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
-			global::Xamarin.Forms.Platform.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::Sensor.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
 			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat = global::Sensor.Droid.Resource.Style.TextAppearance_AppCompat;
 			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Body1 = global::Sensor.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
 			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Body2 = global::Sensor.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
@@ -8520,7 +8343,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sensor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
 			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sensor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
 			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sensor.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlayColorAccentRed = global::Sensor.Droid.Resource.Style.ThemeOverlayColorAccentRed;
 			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat = global::Sensor.Droid.Resource.Style.ThemeOverlay_AppCompat;
 			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Sensor.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
 			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Sensor.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
@@ -8627,7 +8449,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
@@ -8641,7 +8462,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
-			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
 			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_NoActionBar = global::Sensor.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
@@ -9556,7 +9376,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_barrierDirection = global::Sensor.Droid.Resource.Styleable.ConstraintSet_barrierDirection;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_barrierMargin = global::Sensor.Droid.Resource.Styleable.ConstraintSet_barrierMargin;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_chainUseRtl = global::Sensor.Droid.Resource.Styleable.ConstraintSet_chainUseRtl;
-			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_ConstraintRotate = global::Sensor.Droid.Resource.Styleable.ConstraintSet_ConstraintRotate;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_constraint_referenced_ids = global::Sensor.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_ids;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_constraint_referenced_tags = global::Sensor.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_tags;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_deriveConstraintsFrom = global::Sensor.Droid.Resource.Styleable.ConstraintSet_deriveConstraintsFrom;
@@ -10785,11 +10604,6 @@ namespace Sensor.Droid
 			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingEnd = global::Sensor.Droid.Resource.Styleable.View_paddingEnd;
 			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingStart = global::Sensor.Droid.Resource.Styleable.View_paddingStart;
 			global::Xamarin.Forms.Platform.Resource.Styleable.View_theme = global::Sensor.Droid.Resource.Styleable.View_theme;
-			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge = global::Sensor.Droid.Resource.Xml.standalone_badge;
-			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_gravity_bottom_end = global::Sensor.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
-			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_gravity_bottom_start = global::Sensor.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
-			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_gravity_top_start = global::Sensor.Droid.Resource.Xml.standalone_badge_gravity_top_start;
-			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_offset = global::Sensor.Droid.Resource.Xml.standalone_badge_offset;
 		}
 		
 		public partial class Animation
