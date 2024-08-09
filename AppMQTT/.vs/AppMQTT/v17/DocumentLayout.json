@@ -1,14 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AppMQTT.Android||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CEE3B72-0DA7-4C70-9011-AACD4E990B84}|AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj|d:\\usuarios\\eduardo\\documentos\\github\\2923-programacion-para-moviles-ii\\appmqtt\\appmqtt\\appmqtt.android\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1d0ccc80-25f4-4ae8-a45f-933163a51fb6"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -16,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,18 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppMQTT.Android",
-              "DocumentMoniker": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
-              "RelativeDocumentMoniker": "AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
-              "ToolTip": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
-              "RelativeToolTip": "AppMQTT\\AppMQTT.Android\\AppMQTT.Android.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-29T13:57:11.907Z",
-              "EditorCaption": ""
             }
           ]
         }
