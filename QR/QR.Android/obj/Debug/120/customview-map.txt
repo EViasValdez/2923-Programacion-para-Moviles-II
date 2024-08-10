@@ -1,0 +1,14 @@
+adaptive-icon;obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+background;obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+color;obj\Debug\120\res\values\colors.xml
+foreground;obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\120\lp\71\jl\res\layout\zxingscanneractivitylayout.xml
+FrameLayout;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\120\lp\71\jl\res\layout\zxingscannerfragmentlayout.xml
+resources;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\120\lp\70\jl\res\values\strings.xml
+resources;obj\Debug\120\res\values\colors.xml
+resources;obj\Debug\120\res\values\styles.xml
+string;D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\QR\QR.Android\obj\Debug\120\lp\70\jl\res\values\strings.xml
+style;obj\Debug\120\res\values\styles.xml
