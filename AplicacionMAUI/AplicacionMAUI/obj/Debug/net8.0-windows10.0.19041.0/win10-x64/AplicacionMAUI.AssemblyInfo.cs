@@ -18,12 +18,12 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AplicacionMAUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+550c64abf8816baf8269f170204c7d4af9710554")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+552215af8a8d3221356c9b07d62faab08da29f3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AplicacionMAUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AplicacionMAUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows10.0.19041.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows10.0.17763.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows10.0.22621.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
