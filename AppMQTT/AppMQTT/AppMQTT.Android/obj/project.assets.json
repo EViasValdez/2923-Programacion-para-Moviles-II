@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v12.1": {
+    "MonoAndroid,Version=v12.0": {
       "opennetcf-extensions-standard/1.0.17160": {
         "type": "package",
         "compile": {
@@ -430,7 +430,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v12.1": [
+    "MonoAndroid,Version=v12.0": [
       "AppMQTT >= 1.0.0",
       "Xamarin.Essentials >= 1.8.1",
       "Xamarin.Forms >= 5.0.0.2662"
@@ -459,14 +459,14 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid12.1"
+        "monoandroid12.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid12.1": {
+        "monoandroid12.0": {
           "projectReferences": {
             "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj": {
               "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj"
@@ -481,19 +481,11 @@
       }
     },
     "frameworks": {
-      "monoandroid12.1": {
+      "monoandroid12.0": {
         "dependencies": {
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.8.1, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.8.1, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2662, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
