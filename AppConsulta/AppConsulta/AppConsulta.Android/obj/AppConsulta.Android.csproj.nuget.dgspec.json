@@ -23,14 +23,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "monoandroid13.0"
+          "monoandroid12.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "monoandroid13.0": {
+          "monoandroid12.1": {
             "projectReferences": {
               "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj": {
                 "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppConsulta\\AppConsulta\\AppConsulta\\AppConsulta.csproj"
@@ -45,7 +45,7 @@
         }
       },
       "frameworks": {
-        "monoandroid13.0": {
+        "monoandroid12.1": {
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",

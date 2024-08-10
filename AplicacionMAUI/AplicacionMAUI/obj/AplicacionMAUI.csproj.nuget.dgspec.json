@@ -72,7 +72,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.61, )"
+              "version": "[8.0.80, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
@@ -115,7 +115,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.61, )"
+              "version": "[8.0.80, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
@@ -158,7 +158,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.61, )"
+              "version": "[8.0.80, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
@@ -202,7 +202,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.61, )"
+              "version": "[8.0.80, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
