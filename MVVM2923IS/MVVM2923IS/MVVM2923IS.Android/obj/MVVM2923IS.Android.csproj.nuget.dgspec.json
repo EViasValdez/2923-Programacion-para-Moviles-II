@@ -47,6 +47,10 @@
       "frameworks": {
         "monoandroid12.0": {
           "dependencies": {
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.8.1, )"
