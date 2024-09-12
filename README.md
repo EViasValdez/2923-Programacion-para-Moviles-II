@@ -47,12 +47,12 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### MagnetoEjemplo - 11/07/23
-Texto por ser escrito.
+Programa que utiliza el magneto.
 
 <!----Separador---->
 
 ###### MVVMPrograma - 07/07/23
-Texto por ser escrito.
+Utilizacion del metodo MVM.
 
 <!----Separador---->
 
