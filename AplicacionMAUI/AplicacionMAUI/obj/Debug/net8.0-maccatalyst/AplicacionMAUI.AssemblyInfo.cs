@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AppConsulta")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AplicacionMAUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1c4541b098a924ee7d760f90b56aa5f5ab9ee73")]
-[assembly: System.Reflection.AssemblyProductAttribute("AppConsulta")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AppConsulta")]
+[assembly: System.Reflection.AssemblyProductAttribute("AplicacionMAUI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AplicacionMAUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("maccatalyst0.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("maccatalyst13.1")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
