@@ -107,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\AplicacionAndroid\\AplicacionAndroid\\AplicacionAndroid.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AplicacionAndroid\\AplicacionAndroid\\AplicacionAndroid.csproj",
       "projectName": "AplicacionAndroid",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\AplicacionAndroid\\AplicacionAndroid\\AplicacionAndroid.csproj",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AplicacionAndroid\\AplicacionAndroid\\AplicacionAndroid.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\AplicacionAndroid\\AplicacionAndroid\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AplicacionAndroid\\AplicacionAndroid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
