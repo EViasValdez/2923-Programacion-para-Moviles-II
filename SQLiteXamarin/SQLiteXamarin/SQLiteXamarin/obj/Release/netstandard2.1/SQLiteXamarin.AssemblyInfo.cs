@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQLiteXamarin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f10b6b39905e0e361d3335fec5ac19654ab5eff7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae7106caef79aba0577a7697c61b5215b8446ce8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQLiteXamarin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQLiteXamarin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
