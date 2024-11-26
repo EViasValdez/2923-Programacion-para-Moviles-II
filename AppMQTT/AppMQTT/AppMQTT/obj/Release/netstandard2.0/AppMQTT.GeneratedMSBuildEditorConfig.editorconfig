@@ -3,3 +3,6 @@ build_property.RootNamespace = AppMQTT
 build_property.ProjectDir = D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppMQTT\AppMQTT\AppMQTT\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
