@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConsulta.Android", "AppConsulta\AppConsulta.Android\AppConsulta.Android.csproj", "{6764C342-AF57-4F38-88A6-850AE58D17A4}"
 EndProject
