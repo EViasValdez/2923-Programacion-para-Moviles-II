@@ -1555,6 +1555,7 @@
       "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\SQLiteXamarin\\SQLiteXamarin\\SQLiteXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
@@ -1591,14 +1592,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.8.1, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.8.1, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2662, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
