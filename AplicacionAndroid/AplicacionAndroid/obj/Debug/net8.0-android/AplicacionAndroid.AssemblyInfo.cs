@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AplicacionAndroid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a7bc70956122c16f1f23af888804410e1cde43fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+fbaad099b9c2cd8b2f552880b074f81566ba30a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AplicacionAndroid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AplicacionAndroid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
@@ -22,3 +22,4 @@ using System.Reflection;
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Android21.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
+
