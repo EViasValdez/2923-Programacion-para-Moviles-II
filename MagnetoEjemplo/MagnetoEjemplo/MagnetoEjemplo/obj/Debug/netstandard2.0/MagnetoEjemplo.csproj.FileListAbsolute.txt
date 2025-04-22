@@ -12,3 +12,19 @@ C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móvile
 C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.dll
 C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\ref\MagnetoEjemplo.dll
 C:\Users\Señor 51\Documents\IrvinGreg51\UPTEC\2923IS\Programación Para Móviles II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\bin\Debug\netstandard2.0\MagnetoEjemplo.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\bin\Debug\netstandard2.0\MagnetoEjemplo.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\bin\Debug\netstandard2.0\MagnetoEjemplo.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\refint\MagnetoEjemplo.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\MagnetoEjemplo.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\MagnetoEjemplo\MagnetoEjemplo\MagnetoEjemplo\obj\Debug\netstandard2.0\ref\MagnetoEjemplo.dll
