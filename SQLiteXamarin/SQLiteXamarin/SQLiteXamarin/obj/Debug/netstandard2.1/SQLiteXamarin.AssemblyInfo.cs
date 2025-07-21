@@ -14,9 +14,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQLiteXamarin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d87700e61dee7510f56663aa97cf1a02a2456a31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b67d294f771bab1a722777a71026ab291e81613")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQLiteXamarin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQLiteXamarin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
+
