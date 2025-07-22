@@ -195,7 +195,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "ZXing.Net/0.16.9": {
+      "ZXing.Net/0.16.10": {
         "type": "package",
         "dependencies": {
           "NETStandard.Library": "2.0.0"
@@ -247,9 +247,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196",
-          "ZXing.Net": "0.16.9",
+          "Xamarin.Essentials": "1.8.1",
+          "Xamarin.Forms": "5.0.0.2662",
+          "ZXing.Net": "0.16.10",
           "ZXing.Net.Mobile": "2.4.1",
           "ZXing.Net.Mobile.Forms": "2.4.1"
         },
@@ -829,10 +829,10 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "ZXing.Net/0.16.9": {
-      "sha512": "7WaVMHklpT3Ye2ragqRIwlFRsb6kOk63BOGADV0fan3ulVfGLUYkDi5yNUsZS/7FVNkWbtHAlDLmu4WnHGfqvQ==",
+    "ZXing.Net/0.16.10": {
+      "sha512": "9avtcn21T7Ndcl8PQ1LHR7/wEoCruX1QKKHvO6zBPTsDW9IdvR5vKOmd618AY+DtDWZz8NaFDTkpbZdgaF4l4w==",
       "type": "package",
-      "path": "zxing.net/0.16.9",
+      "path": "zxing.net/0.16.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -873,6 +873,10 @@
         "lib/net6.0/zxing.dll",
         "lib/net7.0/zxing.XML",
         "lib/net7.0/zxing.dll",
+        "lib/net8.0/zxing.XML",
+        "lib/net8.0/zxing.dll",
+        "lib/net9.0/zxing.XML",
+        "lib/net9.0/zxing.dll",
         "lib/netcoreapp3.0/zxing.dll",
         "lib/netcoreapp3.0/zxing.xml",
         "lib/netcoreapp3.1/zxing.dll",
@@ -908,7 +912,7 @@
         "lib/wp8/zxing.wp8.0.XML",
         "lib/wp8/zxing.wp8.0.dll",
         "logo.jpg",
-        "zxing.net.0.16.9.nupkg.sha512",
+        "zxing.net.0.16.10.nupkg.sha512",
         "zxing.net.nuspec"
       ]
     },
@@ -967,7 +971,7 @@
       "QR >= 1.0.0",
       "Xamarin.Essentials >= 1.8.1",
       "Xamarin.Forms >= 5.0.0.2662",
-      "ZXing.Net >= 0.16.9",
+      "ZXing.Net >= 0.16.10",
       "ZXing.Net.Mobile >= 2.4.1",
       "ZXing.Net.Mobile.Forms >= 2.4.1"
     ]
@@ -1030,7 +1034,7 @@
           },
           "ZXing.Net": {
             "target": "Package",
-            "version": "[0.16.9, )"
+            "version": "[0.16.10, )"
           },
           "ZXing.Net.Mobile": {
             "target": "Package",

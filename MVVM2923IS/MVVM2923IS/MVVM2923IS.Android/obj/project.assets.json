@@ -66,6 +66,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "7.0.4",
+          "System.Numerics.Vectors": "4.6.1",
           "Xamarin.Essentials": "1.8.1",
           "Xamarin.Forms": "5.0.0.2662"
         },

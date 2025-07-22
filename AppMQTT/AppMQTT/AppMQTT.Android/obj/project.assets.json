@@ -223,8 +223,8 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "OpenNETCF.MQTT": "1.0.17253",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Xamarin.Essentials": "1.8.1",
+          "Xamarin.Forms": "5.0.0.2662"
         },
         "compile": {
           "bin/placeholder/AppMQTT.dll": {}

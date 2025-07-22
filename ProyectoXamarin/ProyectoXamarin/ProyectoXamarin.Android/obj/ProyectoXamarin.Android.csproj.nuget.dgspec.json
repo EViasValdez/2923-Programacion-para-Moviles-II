@@ -50,7 +50,7 @@
           "dependencies": {
             "MySql.Data": {
               "target": "Package",
-              "version": "[8.0.33, )"
+              "version": "[9.3.0, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
@@ -140,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8p4Z7AbKv34=",
+  "dgSpecHash": "uUvMX7s0YOU=",
   "success": true,
   "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AppMQTT\\AppMQTT\\AppMQTT\\AppMQTT.csproj",
   "expectedPackageFiles": [
@@ -9,8 +9,8 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\opennetcf-extensions-standard\\1.0.17160\\opennetcf-extensions-standard.1.0.17160.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\opennetcf.mqtt\\1.0.17253\\opennetcf.mqtt.1.0.17253.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.forms\\5.0.0.2662\\xamarin.forms.5.0.0.2662.nupkg.sha512"
   ],
   "logs": []
 }
