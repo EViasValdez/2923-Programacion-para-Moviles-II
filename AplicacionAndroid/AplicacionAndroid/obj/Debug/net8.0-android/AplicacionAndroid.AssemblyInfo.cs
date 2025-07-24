@@ -22,4 +22,3 @@ using System.Reflection;
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Android21.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
-
