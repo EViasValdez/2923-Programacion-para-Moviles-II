@@ -1,6 +1,0 @@
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta.Android\obj\Debug\120\build.props
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta.Android\obj\Debug\120\adb.props
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta.Android\obj\Debug\120\AppConsulta.Android.csproj.AssemblyReference.cache
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta.Android\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
-D:\Usuarios\Eduardo\Documentos\GitHub\2923-Programacion-para-Moviles-II\AppConsulta\AppConsulta\AppConsulta.Android\obj\Debug\120\res.flag
