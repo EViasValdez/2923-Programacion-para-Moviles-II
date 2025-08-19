@@ -7,6 +7,8 @@
 
 **- El peso original podia llegar de los 500 a 600 megas (comprimidos serian entre dos o mas GBs) ahora ya fue reducido el peso gracias a un cambio en la compilacion.**
 
+**- Algunos proyectos utilizan la libreria Xamarin, las cuales ya pasaron de su tiempo de servicio.**
+
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
