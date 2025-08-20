@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18ecd20f0c8afd6499660fac11331ca6969bbb3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a92596e70ec37a73d2964bcc89444d83d8076bf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("QR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
