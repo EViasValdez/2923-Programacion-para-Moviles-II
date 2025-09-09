@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoXamarin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a92596e70ec37a73d2964bcc89444d83d8076bf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da5da1e212987387af5c7ee05dbc8b8e7c2b2511")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoXamarin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoXamarin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
