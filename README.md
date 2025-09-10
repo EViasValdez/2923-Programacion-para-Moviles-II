@@ -5,7 +5,7 @@
 
 **- La mayoría de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en ser puestos en este sitio y para que sean descargados).**
 
-**- El peso original podia llegar de los 500 a 600 megas (comprimidos serian entre dos o mas GBs) ahora ya fue reducido el peso gracias a un cambio en la compilacion.**
+**- El peso original de los archivos podia llegar de 1 a 2 GBs, gracias a un cambio en la compilacion son entre 500 a 600 GBs.**
 
 **- Algunos proyectos utilizan la libreria Xamarin, las cuales ya pasaron de su tiempo de servicio.**
 
