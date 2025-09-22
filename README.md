@@ -3,7 +3,7 @@
 <!----Notas----> 
 **Notas**
 
-**- La mayoría de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en ser puestos en este sitio y para que sean descargados).**
+**- La mayoría de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en agregados a este repositorio y para que sean descargados).**
 
 **- El peso original de los archivos podia llegar de 1 a 2 GBs, gracias a un cambio en la compilacion son entre 500 a 600 GBs.**
 
