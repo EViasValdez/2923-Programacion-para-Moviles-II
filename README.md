@@ -69,6 +69,6 @@ Uso de un sensor dentro de una aplicación.
 <!----Separador---->
 
 ###### QR - 07/07/23
-Utilizacion de un codigo QR.
+Utilizacion de un código QR.
 
 <!----Separador del directorio con ubicación de archivos---->
