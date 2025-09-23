@@ -54,7 +54,7 @@ Programa que utiliza el magneto.
 <!----Separador---->
 
 ###### MVVMPrograma - 07/07/23
-Utilizacion del método MVM.
+Implementacion del método MVM.
 
 <!----Separador---->
 
