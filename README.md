@@ -7,7 +7,7 @@
 
 **- El peso original de los archivos podia llegar de 1 a 2 GBs, gracias a un cambio en la compilacion son entre 500 a 600 GBs.**
 
-**- Algunos proyectos utilizan la libreria Xamarin, las cuales ya pasaron de su tiempo de servicio.**
+**- Algunos proyectos utilizan la librería Xamarin, las cuales ya pasaron de su tiempo de servicio.**
 
 <!----Separador de las notas---->
 
@@ -39,7 +39,7 @@ Programa que sirve para la consulta de datos en bases de datos.
 <!----Separador---->
 
 ###### MVVM2923IS - 22/06/23
-Aplicacion tomando en cuenta el metodo MVM.
+Aplicación tomando en cuenta el método MVM.
 
 <!----Separador---->
 
@@ -54,7 +54,7 @@ Programa que utiliza el magneto.
 <!----Separador---->
 
 ###### MVVMPrograma - 07/07/23
-Utilizacion del metodo MVM.
+Utilizacion del método MVM.
 
 <!----Separador---->
 
@@ -64,7 +64,7 @@ Proyecto de registro.
 <!----Separador---->
 
 ###### Sensor - 07/08/23
-Uso de un sensor dentro de una aplicacion.
+Uso de un sensor dentro de una aplicación.
 
 <!----Separador---->
 
