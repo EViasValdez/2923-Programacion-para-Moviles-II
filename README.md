@@ -54,7 +54,7 @@ Programa que utiliza el magneto.
 <!----Separador---->
 
 ###### MVVMPrograma - 07/07/23
-Implementacion del método MVM.
+Implementación del método MVM.
 
 <!----Separador---->
 
@@ -69,6 +69,6 @@ Uso de un sensor dentro de una aplicación.
 <!----Separador---->
 
 ###### QR - 07/07/23
-Utilizacion de un código QR.
+Implementación de un código QR.
 
 <!----Separador del directorio con ubicación de archivos---->
