@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AppMQTT")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MVVM2923IS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70a6080d1c97f2f9e8034e126638b9d8d896143c")]
-[assembly: System.Reflection.AssemblyProductAttribute("AppMQTT")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AppMQTT")]
+[assembly: System.Reflection.AssemblyProductAttribute("MVVM2923IS")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MVVM2923IS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
