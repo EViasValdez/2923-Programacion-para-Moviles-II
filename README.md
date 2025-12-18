@@ -39,7 +39,7 @@ Programa que sirve para la consulta de datos en bases de datos.
 <!----Separador---->
 
 ###### MVVM2923IS - 22/06/23
-Aplicación tomando en cuenta el método MVM.
+Aplicación tomando que aplica el método MVM.
 
 <!----Separador---->
 
