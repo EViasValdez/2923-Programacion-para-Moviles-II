@@ -1,7 +1,7 @@
 # Programación para móviles II
 
 <!----Descripción---->
-Por ser escrita.
+Todavía por ser escrita.
 <!----Separador de la descripción ---->
 
 <!----Notas----> 
