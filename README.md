@@ -6,11 +6,10 @@ Todavía por ser escrita.
 
 <!----Notas----> 
 **Notas**
-
+ 
 **- La mayoría de estos programas tienen muchos elementos pequeños (lo cual hizo que tomara tiempo en agregados a este repositorio y para que sean descargados), el peso original de los archivos podia llegar de 1 a 2 GBs gracias a un cambio en el compilado cambiaron entre 500 a 600 MBs.**
 
 **- Algunos proyectos utilizan la librería Xamarin, las cuales ya pasaron de su tiempo de servicio.**
-
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
