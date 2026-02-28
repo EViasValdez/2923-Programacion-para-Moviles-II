@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HHN0cv/QoC4=",
+  "dgSpecHash": "tC2cHMYG6Aw=",
   "success": true,
   "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Programacion-para-Moviles-II\\AplicacionAndroid\\AplicacionAndroid\\AplicacionAndroid.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.22\\microsoft.net.illink.tasks.8.0.22.nupkg.sha512"
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.24\\microsoft.net.illink.tasks.8.0.24.nupkg.sha512"
   ],
   "logs": []
 }
