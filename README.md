@@ -2,7 +2,7 @@
 
 <!----Descripción---->
 Todavía por ser escrita.
-<!----Separador de la descripción ---->
+<!----Separador de la descripción---->
 
 <!----Notas----> 
 **Notas**
