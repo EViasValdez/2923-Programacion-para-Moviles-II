@@ -64,7 +64,7 @@ Proyecto de registro.
 <!----Separador---->
 
 ###### Sensor - 07/08/23
-Uso de un sensor dentro de una aplicación.
+Uso y manejo de un sensor dentro de una aplicación.
 
 <!----Separador---->
 
