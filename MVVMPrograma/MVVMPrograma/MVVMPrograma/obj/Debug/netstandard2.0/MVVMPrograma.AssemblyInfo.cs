@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVVMPrograma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80c612a2d169701c85607e2485b748e5d3dbe140")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1c4f68c9962efc36ac455941cfc2cd87beef9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVVMPrograma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVVMPrograma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
