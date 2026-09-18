@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaSQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0b9dddf10a6414974baeb106f45250cddd42321")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4dce0445246289671560600999cbe0f83fe72fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaSQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaSQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
